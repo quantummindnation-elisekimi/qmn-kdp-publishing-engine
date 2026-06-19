@@ -14,6 +14,26 @@ Time estimate per niche: **30–45 minutes of focused manual research.**
 
 ---
 
+## What Is Automated vs Manual (Important Distinction)
+
+The "no automation" rule on this project applies to **data collection only**. It does not
+forbid downstream processing of data Elise has already gathered by hand.
+
+**Manual only — never automated:**
+- Searching Amazon, reading listings, reading reviews, observing BSR
+- Any extraction of data from Amazon (no scraping, no third-party Amazon data services or APIs)
+
+**Automation allowed — only after manual collection:**
+- Structuring Elise's raw observations into the scorecard format
+- Drafting the competitor analysis and market-gap synthesis
+- *Suggesting* (never finalizing) the 100-point scores, with rationale tied to the framework
+- The `/niche-research` slash command performs only this downstream work — it never touches Amazon
+
+Elise's manual observation remains the only source of Amazon data. Claude never accesses Amazon
+directly. Final scores and sign-off remain human.
+
+---
+
 ## Step 1: Set Up Your Research Session
 
 1. Open Amazon.com on a browser (desktop recommended for easier observation)
