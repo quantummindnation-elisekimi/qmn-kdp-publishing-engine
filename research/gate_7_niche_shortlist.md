@@ -1,9 +1,9 @@
 # Gate 7 — Niche Research Shortlist
 
 **Gate 7: Niche Research Only**
-**Status: IN PROGRESS — Scorecards 004, 006, 008 scored (suggested). Elise sign-off required on each before Gate 7 can close.**
+**Status: SIGNED — Gate 7 approves the niche and positioning only. Final title is NOT approved.**
 
-*This file is the master tracker for Gate 7. It is the SINGLE SOURCE OF TRUTH for niche IDs, scores, and decisions. One niche = one row = one permanent ID. No niche appears more than once. No book concept, character, manuscript, or illustration work begins until Elise selects and approves a niche from this list.*
+*This file is the master tracker for Gate 7. It is the SINGLE SOURCE OF TRUTH for niche IDs, scores, and decisions. One niche = one row = one permanent ID. Gate 7 approval allows progression to Book Brief only. No manuscript, character bible, illustration prompt, cover, Canva layout, KDP metadata, or other production asset begins until Gate 8 title validation, Amazon search-term check, USPTO/title search, and subtitle SEO validation are complete.*
 
 ---
 
@@ -20,6 +20,7 @@
 - Complete the scorecard for each niche before making a decision
 - See `research/manual_amazon_research_instructions.md` for step-by-step research method
 - See `research/AUTOMATION.md` for how the v2 research loop works
+- Gate 7 signs off niche and positioning only; title approval belongs to Gate 8
 
 ---
 
@@ -30,7 +31,7 @@
 | 001 | Confidence / Fear of Trying New Things | 4–7 | `scoring/001_confidence_trying_new_things_score.md` | Not started | ___/100 | ___/100 | ___ |
 | 002 | Bedtime Anxiety / Night Fears | 3–7 | `scoring/002_bedtime_anxiety_score.md` | Not started | ___/100 | ___/100 | ___ |
 | 003 | First Day of School / Kindergarten Anxiety | 4–7 | `scoring/003_first_day_school_score.md` | Not started | ___/100 | ___/100 | ___ |
-| 004 | Big Feelings / Anger Management | 3–7 | `scoring/004_big_feelings_anger_score.md` | Scored (suggested) | **77/100** | ___/100 | ___ |
+| 004 | Big Feelings / Anger Management | 3–7 | `scoring/004_big_feelings_anger_score.md` | Signed | **77/100** | **77/100** | **Revise** |
 | 005 | Making Friends / Social Anxiety | 4–8 | `scoring/005_making_friends_score.md` | Not started | ___/100 | ___/100 | ___ |
 
 **Research status options:** Not started / In progress / Scored (suggested) / Signed / Rejected
@@ -41,24 +42,42 @@
 
 *These 4 candidates are sub-niches derived from Candidate 004 (Big Feelings / Anger Management). Each takes a different differentiation angle to avoid direct competition with the generic anger workbook market.*
 
-*Scores shown: Suggested AI (AI-generated from Elise's manual research). Elise Score column is blank until Elise signs via `/niche-signoff <id>`.*
+*Scores shown: Suggested AI (AI-generated from Elise's manual research). Elise Score column records Elise's Gate 7 sign-off decision.*
 
-| ID | Niche / Title Angle | Age Range | Scorecard | Research Status | Suggested AI Score | Elise Score | Decision |
+| ID | Niche / Positioning Angle | Age Range | Scorecard | Research Status | Suggested AI Score | Elise Score | Decision |
 |---|---|---|---|---|---|---|---|
-| 006 | My Brain Gets Really Loud — overwhelm/brain-noise framing | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | Scored (suggested) | **83/100** | ___/100 | ___ |
+| 006 | Children's emotional regulation / overwhelm-before-anger, with "loud brain" as working positioning language | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | Signed | **83/100** | **83/100** | **Pursue niche and positioning. Exact title is not approved yet.** |
 | 007 | My Feelings Are Not Too Big — anti-shame/validation | 4–7 | `scoring/007_my_feelings_not_too_big_score.md` | Not started | ___/100 | ___/100 | ___ |
-| 008 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | Scored (suggested) ⚠ THIN EVIDENCE | **78/100** | ___/100 | ___ |
+| 008 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | Signed | **78/100** | **78/100** | **Revise** |
 | 009 | When My Body Feels Like a Storm — somatic/pre-anger body signals | 4–7 | `scoring/009_when_body_feels_storm_score.md` | Not started | ___/100 | ___/100 | ___ |
 
 > ⚠ **Scorecard 008 (Finding Calm) — THIN EVIDENCE flag:** Only 1 Amazon search phrase was searched. Suggested score is capped at 78/100 (Revise tier) until Elise validates additional phrases. If additional phrases confirm the narrative storybook gap holds, this likely revises to 80+ (Pursue).
 
+---
+
+## Selected Gate 7 Niche
+
+**Selected niche:** Children's emotional regulation / overwhelm-before-anger, with "loud brain" as working positioning language.
+
+**Working positioning angle:** A storybook for ages 4–7 about the moment a child's brain feels "too loud" before big feelings or anger take over.
+
+**Working title directions:**
+- The Little Loud Brain
+- My Brain Gets Really Loud
+
+**Final title status:** NOT FINAL. Requires Gate 8 title validation, Amazon search-term check, USPTO/title search, and subtitle SEO validation.
+
+**Gate 7 approval scope:** Proceed to Book Brief only. Do not create manuscript, character bible, illustration prompt, cover, Canva layout, KDP metadata, or production assets until title/IP/SEO checks are completed.
+
+---
+
 ### Priority for Manual Amazon Validation
 
-Elise should complete sign-off in this order:
+Elise completed sign-off in this order:
 
-1. **#006 — My Brain Gets Really Loud** *(suggested 83/100 — highest confirmed score, natural Book 002, series fit strongest)*
-2. **#008 — Finding Calm / The Little Calm Brain** *(suggested 78/100 — needs additional phrase validation to confirm; likely 80+ if confirmed)*
-3. **#004 — Big Feelings / Anger Management** *(suggested 77/100 — broad parent niche, useful context for sub-niche decisions)*
+1. **#006 — Children's emotional regulation / overwhelm-before-anger** *(Elise Final Score 83/100 — Pursue niche and positioning; exact title not approved yet)*
+2. **#008 — Finding Calm / The Little Calm Brain** *(Elise Final Score 78/100 — Revise; needs additional phrase validation)*
+3. **#004 — Big Feelings / Anger Management** *(Elise Final Score 77/100 — Revise; broad parent niche, useful context for sub-niche decisions)*
 4. **#007 — My Feelings Are Not Too Big** *(not yet researched)*
 
 Candidate #009 (Body Signals) is secondary — validate after top 4 if bandwidth allows.
@@ -100,23 +119,21 @@ Elise makes this decision after all priority scorecards are signed.
 | 3 | Dragon metaphor in anger context | Monitoring / Avoidable | Niche 004 |
 | 4 | "Spot"/blob metaphor + "A Little ___" naming | Monitoring / Avoidable | Niche 004 |
 
-*Next action: Elise to initiate USPTO trademark search on "The Little Brave Brain" and "The Little Loud Brain" before either goes to production.*
+*Next action: Elise to initiate Gate 8 title/IP checks for working title directions before either goes to production.*
 
 ---
 
 ## Gate 7 Sign-Off Block
 
-*Complete after all priority scorecards are signed.*
+**Niche selected by Elise:** Children's emotional regulation / overwhelm-before-anger, with "loud brain" as working positioning language.
 
-**Niche selected by Elise:** _________________________________
+**Reason for selection:** Strongest confirmed Gate 7 score (83/100), clear parent pain point, strong MindQuest fit, and differentiated upstream positioning before anger takes over.
 
-**Reason for selection:** _________________________________
+**Book 001 impact:** [ ] Book 001 confirmed on Candidate 001  [ ] Book 001 adjusted  [x] New book project started on different niche
 
-**Book 001 impact:** [ ] Book 001 confirmed on Candidate 001  [ ] Book 001 adjusted  [ ] New book project started on different niche
+**Elise approval to proceed to Book Brief:** Approved for niche and positioning only. Final title is not approved. Date: 2026-06-20
 
-**Elise approval to proceed to Book Brief:** _____________________ Date: _________
-
-*Gate 7 is not complete until Elise signs here.*
+*Gate 7 is complete for niche and positioning only. Production remains blocked until Gate 8 title/IP/SEO checks are complete.*
 
 ---
 
