@@ -22,7 +22,7 @@
 
 ---
 
-## Candidate Niches
+## Candidate Niches — Original 5
 
 | # | Niche | Age Range | Scorecard File | Research Status | Score | Decision |
 |---|---|---|---|---|---|---|
@@ -33,6 +33,33 @@
 | 5 | Making Friends / Social Anxiety | 4–8 | `scoring/005_making_friends_score.md` | [ ] Not started | ___/100 | ___ |
 
 **Research status options:** Not started / In progress / Scored / Approved / Rejected
+
+---
+
+## Adjacent Anger / Big Feelings Derivatives
+
+*These 4 candidates are sub-niches derived from Candidate 4 (Big Feelings / Anger Management). Each takes a different differentiation angle to avoid direct competition with the generic anger workbook market. Elise must complete Amazon validation before scoring.*
+
+*Pre-screen hypothesis scores shown below are strategic estimates only — not real Amazon data. Elise scores override all hypothesis scores.*
+
+| # | Niche / Title Angle | Age Range | Scorecard File | Hypothesis Score | Research Status | Elise Score | Decision |
+|---|---|---|---|---|---|---|---|
+| 6 | My Brain Gets Really Loud — overwhelm/brain-noise framing | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | 82/100 | [ ] Not started | ___/100 | ___ |
+| 7 | My Feelings Are Not Too Big — anti-shame/validation | 4–7 | `scoring/007_my_feelings_not_too_big_score.md` | 82/100 | [ ] Not started | ___/100 | ___ |
+| 8 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | 81/100 | [ ] Not started | ___/100 | ___ |
+| 9 | When My Body Feels Like a Storm — somatic/pre-anger body signals | 4–7 | `scoring/009_when_body_feels_storm_score.md` | 78/100 | [ ] Not started | ___/100 | ___ |
+
+### Priority for Manual Amazon Validation
+
+Elise should validate the following three in this order before scoring:
+
+1. **#6 — My Brain Gets Really Loud** *(hypothesis 82/100 — highest series fit with Little Brain brand)*
+2. **#7 — My Feelings Are Not Too Big** *(hypothesis 82/100 — strongest differentiation angle, lowest IP risk)*
+3. **#8 — Finding Calm / The Little Calm Brain** *(hypothesis 81/100 — natural Book 003 in series architecture)*
+
+Candidate #9 (Body Signals) is secondary — validate after Top 3 if bandwidth allows.
+
+See `research/little_brain_series_architecture.md` for the series context behind Candidates 6 and 8.
 
 ---
 
