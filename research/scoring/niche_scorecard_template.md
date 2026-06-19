@@ -1,13 +1,19 @@
 # Niche Scorecard — [NICHE NAME]
 
-**DRAFT — NOT SCORED**
-*Copy this file to `research/scoring/00X_[niche-name]_score.md`. Fill in all sections. Elise must complete all Amazon research manually before scoring.*
+> ⚠ **SUGGESTED — UNSIGNED**
+> Suggested AI scores are populated by the `/niche-research` command from Elise's manual intake.
+> Elise Final column is blank until `/niche-signoff` is run and Elise signs.
+> Do NOT treat Suggested AI scores as approved decisions.
+
+*Copy this file to `research/scoring/<niche_id>_<niche-slug>_score.md`. niche_id is permanent — never reassigned.*
 
 ---
 
 **Niche name:**
-**Date research started:**
+**niche_id:** *(e.g. 006 — set once, never changes)*
+**Date research completed:**
 **Researched by:** Elise Kimi / QMN
+**Source intake file:** `research/_intake/`
 **Scorecard file:** `research/scoring/`
 
 ---
@@ -17,25 +23,41 @@
 - **Niche name:**
 - **Parent buyer pain point** *(describe specifically — what is the parent trying to solve?)*:
 - **Target age range:**
-- **Likely Amazon search phrases** *(5–7 phrases Elise should search manually)*:
+- **Amazon search phrases tested** *(list only phrases actually searched — minimum 3 required)*:
   1.
   2.
   3.
-  4.
-  5.
-  6.
-  7.
+- **Additional phrases recommended for follow-up:**
+  -
 - **QMN/MindQuest brand fit summary:**
 
 ---
 
-## What Elise Must Check on Amazon
+## Evidence Record
 
-*(Specific search instructions for this niche — what to look for, what to note)*
+> ⚠ **THIN EVIDENCE** — check if fewer than 3 phrases were actually searched. If checked,
+> cap suggested total at 79/100 (Revise) and flag in scoring table.
+> [ ] THIN EVIDENCE (fewer than 3 phrases searched)
 
-- Search phrase priority:
-- Key things to observe:
-- Watch out for:
+**Demand evidence** *(proof that parents are actively searching and buying in this space)*:
+*e.g. BSR ranges observed, review counts on relevant titles, sponsored ads present*
+
+**Differentiation evidence** *(proof that a QMN-style entry is not already occupied)*:
+*e.g. zero children's picture books in search results, no storybook format present, metaphor space unclaimed*
+
+> Note: a zero-results search for an invented title (e.g. "The Little Loud Brain") is
+> DIFFERENTIATION evidence only — never demand evidence. State both separately.
+
+---
+
+## What Was Searched on Amazon
+
+- Search phrase: *(phrase)*
+- Results returned: *(number)*
+- Sponsored ads at top of results: *(Yes / No / Not noted)*
+- Big publishers dominating: *(Yes / No — list which if yes)*
+
+*(Add blocks for each additional phrase searched)*
 
 ---
 
@@ -109,35 +131,38 @@
 
 ## Copyright / IP Risk Notes
 
-*Generic notes for this niche — Elise confirms during research.*
+*Check against `research/ip_watchlist.md` — add/update rows there for any new flags found here.*
 
 - Known franchise risk:
 - Character name risk:
 - Theme trademark risk:
-- Overall IP risk level: [ ] Low  [ ] Medium  [ ] High
+- **Overall IP risk level:** [ ] Low  [ ] Low-Medium  [ ] Medium  [ ] Medium-High  [ ] High
+- **Disqualifying?** [ ] Yes (IP Safety score ≤ 3)  [ ] No
 
 ---
 
 ## 100-Point Scoring Table
 
-*Elise fills in after completing all research sections above. Use rubric in `docs/niche_research_framework.md`.*
+> ⚠ **SUGGESTED — UNSIGNED** — Suggested AI column populated by `/niche-research`.
+> Elise Final column is blank until Elise reviews and runs `/niche-signoff`.
+> Elise scores override AI suggestions in all cases.
 
-| # | Category | Max Points | Elise Score | Notes |
-|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | /10 | |
-| 2 | Search demand signal | 10 | /10 | |
-| 3 | Competition weakness | 10 | /10 | |
-| 4 | Parent pain point clarity | 10 | /10 | |
-| 5 | Series potential | 10 | /10 | |
-| 6 | Differentiation potential | 10 | /10 | |
-| 7 | Production feasibility | 10 | /10 | |
-| 8 | Copyright/IP safety | 10 | /10 | |
-| 9 | Monetization potential | 10 | /10 | |
-| 10 | QMN/MindQuest brand fit | 10 | /10 | |
-| | **TOTAL** | **100** | **/100** | |
+| # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
+|---|---|---|---|---|---|
+| 1 | Buyer urgency | 10 | /10 | /10 | |
+| 2 | Search demand signal | 10 | /10 | /10 | |
+| 3 | Competition weakness | 10 | /10 | /10 | |
+| 4 | Parent pain point clarity | 10 | /10 | /10 | |
+| 5 | Series potential | 10 | /10 | /10 | |
+| 6 | Differentiation potential | 10 | /10 | /10 | |
+| 7 | Production feasibility | 10 | /10 | /10 | |
+| 8 | Copyright/IP safety | 10 | /10 | /10 | |
+| 9 | Monetization potential | 10 | /10 | /10 | |
+| 10 | QMN/MindQuest brand fit | 10 | /10 | /10 | |
+| | **TOTAL** | **100** | **/100 (suggested)** | **/100 (Elise)** | |
 
 **Score interpretation:**
-- 80–100: Strong candidate → proceed to book brief
+- 80–100: Strong candidate → proceed to book brief with Elise approval
 - 60–79: Revise → identify weak categories before proceeding
 - Below 60: Reject or park
 - Copyright/IP Safety ≤ 3: Disqualifying regardless of total score
@@ -146,11 +171,12 @@
 
 ## Final Recommendation
 
-**Score:** ___/100
+**Suggested score (AI):** ___/100
+**Elise confirmed score:** ___/100 *(blank until signed)*
 
-**Recommendation:**
-[ ] **Pursue** — score 60+, brand fit confirmed, no IP red flags
-[ ] **Revise** — identify weak categories and re-evaluate
+**Suggested recommendation (AI):**
+[ ] **Pursue** — score 80+
+[ ] **Revise** — identify weak categories
 [ ] **Reject / Park** — score below 60 or IP risk too high
 
 **Elise decision:** _____________________ Date: _________
@@ -159,4 +185,4 @@
 
 ---
 
-*Template version: 1.0 | Ref: `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md`*
+*Template version: 1.1 | Ref: `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md` | `research/ip_watchlist.md`*
