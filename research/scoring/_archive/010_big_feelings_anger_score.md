@@ -1,3 +1,10 @@
+> ⚠ **SUPERSEDED** — This file (010) was a duplicate number assigned before ID-stability rules were in place.
+> The canonical scorecard for this niche is now at `research/scoring/004_big_feelings_anger_score.md` (niche_id: 004).
+> This archive copy is retained for audit purposes only. Do not edit or use for production decisions.
+> Archived: 2026-06-19
+
+---
+
 # Niche Scorecard 010 — Big Feelings / Anger Management / Emotional Regulation
 
 **SUGGESTED SCORES INSIDE — Elise must confirm or override every score.**
@@ -159,12 +166,6 @@ Inside Out is a registered Disney/Pixar property featuring anthropomorphized emo
 | 9 | Monetization potential | 10 | **8** | Series potential + companion content (printables, parent guides) + strong gift purchase appeal. Rubric 7–8: good repeat purchase potential or upsell path. |
 | 10 | QMN/MindQuest brand fit | 10 | **9** | Understanding what's happening inside before it controls you is exactly the MindQuest message. Rubric 9–10: perfect fit. |
 | | **TOTAL** | **100** | **77 (suggested)** | Falls in the 60–79 range: *Revise and validate — identify weak categories before proceeding.* |
-
-**What the score tells us:**
-- This niche has massive demand and excellent brand fit — the 77 is not a failure signal
-- The Competition Weakness score (4) is the honest constraint: the DIRECT "anger management" lane is crowded
-- The path forward is through a differentiated sub-niche (see scorecards 006–009), not a direct entry
-- IP Safety (5) is manageable but non-trivial — character design review required before proceeding
 
 ---
 

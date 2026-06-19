@@ -1,167 +1,211 @@
 # Niche Scorecard 008 — Finding Calm / The Little Calm Brain
 
-**DRAFT — NOT SCORED — Elise must complete all Amazon research manually before scoring.**
-
-**Adjacent niche derivative of:** Scorecard 004 (Big Feelings / Anger Management — broad parent niche)
-**Differentiation angle:** Calm as an active skill — not the absence of big feelings, not suppression, but something a child finds and builds intentionally
+> ⚠ **SUGGESTED — UNSIGNED**
+> Suggested AI scores populated from Elise's manual research (intake: `_intake/008_calm_brain_intake.md`).
+> Elise Final column is blank until `/niche-signoff 008` is run and Elise signs.
 
 ---
 
-**Niche name:** Finding Calm / The Little Calm Brain / Self-Regulation Storybook
-**Date research started:** *[Elise fills in]*
+**Niche name:** Finding Calm / The Little Calm Brain
+**niche_id:** 008
+**Date research completed:** 2026-06-19
 **Researched by:** Elise Kimi / QMN
-**Pre-screen hypothesis score:** 81/100 *(strategic estimate only — not a real Amazon score)*
-**Priority for Amazon validation:** TOP 3 — validate first
+**Source intake file:** `research/_intake/008_calm_brain_intake.md`
+**Scorecard file:** `research/scoring/008_finding_calm_score.md`
+
+> **Note on history:** This is the canonical scorecard for Gate 7 Candidate #8. A prior duplicate at `_archive/012_finding_calm_score.md` has been superseded by this file.
 
 ---
 
 ## Niche Overview
 
-- **Niche name:** Finding Calm / The Little Calm Brain / Self-Regulation Storybook
-- **Parent buyer pain point:** "My child doesn't know how to come back down after getting worked up. I try to help but I don't have tools either. I want a book that actually teaches my child how to find calm — not just says 'calm down' and expects it to happen."
-- **Target age range:** 4–7 years
-- **Likely Amazon search phrases** *(Elise must search these manually)*:
-  1. `finding calm children's book`
-  2. `calm down kids picture book`
-  3. `self-regulation storybook ages 4-7`
-  4. `calming storybook for kids`
-  5. `calm brain children's book`
-  6. `how to calm down children's book`
-  7. `calm down storybook not workbook`
-- **QMN/MindQuest brand fit summary:** Very strong. The "Little Calm Brain" fits the series architecture as Book 003 (after The Little Brave Brain and The Little Loud Brain). "Calm" is a high-search, high-intent keyword for parents of emotionally reactive children. The framing of calm as an active skill — something you find, not something you're forced into — is genuinely different from most calming books.
+- **Niche name:** Finding Calm / The Little Calm Brain
+- **Parent buyer pain point:** My child can't calm down once they're overwhelmed or dysregulated. I need a book that teaches them what calm feels like and how to find it — not as a worksheet exercise, but as a story they want to hear again and again.
+- **Target age range:** 3–7
+- **Amazon search phrases tested:**
+  1. The Little Calm Brain *(2026-06-19 — 114 results, no narrative storybook in results)*
+- **Additional phrases recommended for follow-up:**
+  2. calm down children's storybook
+  3. finding calm picture book ages 4-7
+  4. self-regulation story kids
+  5. calm brain children's book
+  6. mindfulness storybook ages 3-6
+- **QMN/MindQuest brand fit summary:** Direct fit. "Calm" is the natural resolution state to the overwhelm explored in the Little Loud Brain (Book 002). Understanding calm as something you find, not something that just happens, is core MindQuest message. Natural Book 003 in the Little Brain series architecture.
 
 ---
 
-## What Elise Must Check on Amazon
+## Evidence Record
 
-- Search all 7 phrases above — record what dominates page 1
-- **Key question:** Are calming children's books primarily workbooks (breathing exercises, worksheets) or genuine re-readable storybooks? If the storybook side is thin — gap is real
-- Check BSR on any storybook-format calming book (not a workbook) — is there a health BSR showing consistent sales?
-- Note: Does "calm brain" return any existing branded book? Validate "The Little Calm Brain" as a title concept
-- Check review language — do parents say their child uses the book as a tool, or just reads it once?
-- Watch for: recently published calming storybooks with 50+ reviews — signals market timing
+[x] **THIN EVIDENCE** — only 1 phrase searched. Suggested total capped at 79/100 (Revise tier).
+*Elise should validate 3–4 additional phrases before treating this as a Pursue candidate. See follow-up phrases above.*
+
+**Demand evidence:** "The Little Calm Brain" returned 114 results — meaningfully more than the Loud Brain phrase (6 results). Breathe Like a Bear (BSR #9,571, 6,310 reviews, Rodale Kids) confirms active purchasing demand in the calm/mindfulness space. DK's Calm: Mindfulness for Kids (BSR #520,472, 158 reviews) shows secondary demand.
+
+**Differentiation evidence:** No narrative picture storybook appeared anywhere in the 114 results. The dominant children's title (Breathe Like a Bear) is an activity/exercise collection — a different format entirely. No storybook-format entry for ages 4–7 about finding calm exists in current results.
+
+> Note: zero narrative storybooks in "The Little Calm Brain" results = differentiation evidence — not demand evidence. Both are stated above separately.
+
+---
+
+## What Was Searched on Amazon
+
+**Search 1:** "The Little Calm Brain" (Books category, Amazon.com, 2026-06-19)
+- Results returned: 114 total
+- Sponsored ads at top: Not noted — results-dominant view captured
+- Big publishers dominating: Yes in one title — Breathe Like a Bear (Rodale Kids, Top 100 seller)
 
 ---
 
 ## Competitor Observation Table
 
-*Elise fills in from manual Amazon search. Record at least 5 titles.*
+*From Elise's manual Amazon search, 2026-06-19.*
 
-| Title | Author Type | BSR | Price | Reviews | Avg Rating | Cover Quality | Notes |
+| Title | Author Type | BSR | Price (MYR) | Reviews | Avg Rating | Cover Quality | Notes |
 |---|---|---|---|---|---|---|---|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| The Story of Little Heart and Brave Brain: Understanding Feelings and Finding Calm | Individual | Not captured | 53.49 pb | 2 | 5.0 | Strong | Erin Reese Johnson. Nov 2025. Therapist-created, self-published. 29 pages, ages 4–9. Characters "Little Heart, Brave Brain, and Body." ⚠ PROXIMITY FLAG: "Brave Brain" as a named character is close to QMN Book 001 "The Little Brave Brain." Only 2 reviews. No traction. Miscategorized under adult Self-Help. |
+| Breathe Like a Bear: 30 Mindful Moments for Kids to Feel Calm and Focused | Publisher brand | #9,571 Books | 40.77 pb | 6,310 | 4.8 | Strong | Kira Willey + Anni Betts. Rodale Kids. Dec 2017. 7-book mindfulness series. Top-100 seller. Parents' Choice GOLD Award. EXERCISE/ACTIVITY FORMAT — 30 breathing practices. NOT a narrative storybook. Ages 3–6. Recommended by behavioral therapists and OTs. |
+| The Little Book of Calm | Individual | Not captured | 36.20 pb | 642 | 4.8 | Mixed | Paul Wilson. Jan 2016. Adult general wellbeing. No picture book overlap. |
+| Calm: Mindfulness for Kids | Publisher brand | #520,472 Books | 70.06 Flexibound | 158 | 4.6 | Strong | Wynne Kinder. DK Children. Feb 2019. 72 pages. Ages 6–9. Activity format — mindfulness jar, mindful eating. Not a narrative storybook. Classroom use. |
+| Finding the Calm Child Within | Publisher brand | Not captured | 94.68 pb | 8 | 5.0 | Mixed | Sam Goldstein et al. Jul 2023. Clinical parenting book about DMDD. Adult/parent audience. High price confirms specialist positioning. Not relevant to children's picture book market. |
 
-**Author type key:** Individual / Publisher brand / Branded series / Unknown
+**Key finding: No children's narrative picture storybook appeared for "The Little Calm Brain" search. The dominant children's title (Breathe Like a Bear) is an activity/exercise collection in a different format.**
 
 ---
 
 ## Review Mining Notes
 
-*Elise reads 10–20 reviews across top competitors. Summarize in own words — do not copy verbatim.*
+*From Breathe Like a Bear (top competitor) and The Story of Little Heart and Brave Brain (nearest concept competitor).*
 
 **What parents praise most:**
+Breathe Like a Bear reviews center on two things: the exercises work in real-world moments (car, grocery store, bedtime, meltdown onset), and children actually use them. Parents describe children learning specific techniques by name and requesting them in high-stress moments. Recommended by behavioral therapists and OTs by name, giving it professional credibility.
 
 **What parents wish was different:**
+Reading between the lines of Breathe Like a Bear reviews: parents describe the book primarily as a TOOL — not as a story their child loves. Reviews rarely say "my child begged to read it again." The exercises are the product. The gap this implies: parents of overwhelmed children are also looking for a narrative that creates calm by being read.
 
 **Language parents use to describe the problem:**
+"can't calm down," "dysregulated," "sensory-sensitive," "trauma background," "meltdown," "overwhelmed," "needs to regulate." One reviewer describes a child who "works himself up until he can't even talk."
 
 **Unmet needs mentioned in reviews:**
+No narrative picture storybook for ages 4–7 specifically about finding calm appeared in the search results. The gap is a storybook — one a child returns to not because it is a behavioral tool but because it tells a story about a child who discovers what calm feels like.
 
 ---
 
 ## BSR Observation Notes
 
-- **Healthiest BSR seen in this niche:**
-- **Most competitive title's BSR:**
-- **General BSR range of top 10 results:**
-- **BSR interpretation:**
+- **Healthiest BSR seen in this niche:** #9,571 in Books (Breathe Like a Bear — children's mindfulness exercises, Rodale Kids)
+- **Most competitive title's BSR:** #9,571 in Books (Breathe Like a Bear — dominant, Top-100)
+- **General BSR range of top results:** #9,571 (Breathe Like a Bear) to #520,472 (Calm: Mindfulness for Kids); adult books filling most other results
+- **BSR interpretation:** Breathe Like a Bear is a genuinely strong, active, Top-100 seller backed by a major publisher. This is meaningful competition in the calm/mindfulness children's space. However, Breathe Like a Bear is categorized under Children's Fitness, not Children's Emotions & Feelings — its primary shelf is breathing exercises / physical mindfulness, not emotional storybook. A narrative storybook would occupy the Emotions & Feelings shelf primarily.
 
 ---
 
 ## Market Gap Hypothesis
 
-*Pre-filled for Elise to validate or reject through research.*
+**Primary gap:** No children's narrative picture storybook exists for ages 3–7 about finding calm. The search phrase returns 114 results dominated by adult books and one dominant children's exercise book (Breathe Like a Bear). The narrative storybook format is genuinely absent.
 
-**Gap identified:** Most calming books for children either (a) tell children to calm down without teaching how, or (b) are structured workbooks with breathing exercises that don't function as re-readable stories. A storybook that positions calm as something a child actively finds — an experience they can recognize, practice, and return to — rather than a behavior instruction, may be underserved in genuine picture book form.
+**Secondary gap:** Breathe Like a Bear occupies the "calm-down technique" shelf. No book occupies the "calm as an emotional state worth naming and recognizing" shelf. Breathe Like a Bear tells a child what to do. A QMN storybook would tell a child what calm feels like — creating emotional recognition, not only technique recall.
 
-Additionally, this niche could specifically serve the parent who has already read anger books but needs the "after" — the book that helps the child come back, not just the book that explains the feeling.
+**Key competitive note:** Breathe Like a Bear is a Top-100 Amazon seller with Rodale Kids backing, 6,310 reviews, and professional recommendations. Any QMN entry must be clearly positioned as a storybook (not an exercise collection) to avoid direct format competition.
 
-**Validation required:** Elise must confirm whether the top calming children's books are storybooks or workbooks. If workbooks dominate, there is likely a storybook gap. If strong storybooks already exist with high reviews, the entry cost rises.
+**Validation still needed:** Elise should search `calm down storybook kids`, `finding calm picture book ages 4-7`, `calm brain children's book`, `self-regulation story kids ages 3-7`. These phrases would test whether the narrative storybook gap holds across multiple entry points.
 
 ---
 
 ## Series Potential
 
-- **Book 001:** The Little Brave Brain (confidence / fear of trying new things)
-- **Book 002:** The Little Loud Brain (overwhelm / big feelings)
-- **Book 003:** The Little Calm Brain (self-regulation / finding calm) — *this niche*
-- The series forms a natural arc: brave (facing fear) → loud (experiencing overwhelm) → calm (returning to regulation)
-- Cross-sell potential: parent who buys Book 001 and 002 is a natural buyer for Book 003
-- Year-round demand: High — self-regulation is not seasonal; strong school counselor/teacher market
+- **Book 001:** The Little Brave Brain (confidence / trying new things) — *already drafted*
+- **Book 002:** The Little Loud Brain (overwhelm / big feelings) — *research complete (Scorecard 006)*
+- **Book 003:** The Little Calm Brain (finding calm / self-regulation) — *this niche*
+- **Possible Book 004+:** The Little Kind Brain, The Little Curious Brain, The Little Focused Brain
+
+Series fit is structural and naming-consistent. Book 003 (Calm) is the natural resolution to Book 002 (Loud) — the series arc from brave → overwhelm → calm maps to a real emotional journey. Amazon cross-sell between all three books is built in from launch day.
 
 ---
 
 ## Monetization Angle
 
 - **Likely print price range:** $10.99–$13.99
-- **eBook potential:** Yes — particularly useful as a bedtime read or post-meltdown read
-- **Companion content potential:** "My Calm Toolkit" printable, parent guide to co-regulation, "Finding My Calm" breathing poster for child's bedroom
-- **Lead magnet / QMN funnel fit:** Very strong — calm regulation tools are central to MindQuest brand content
+- **eBook potential:** Yes — parents may use at bedtime or during a calm-down moment; audiobook version with narrated calm-breathing prompts embedded in the story would be a strong companion
+- **Companion content potential:** "My Calm Brain" feelings cards; breathing technique printable matched to story scenes; parent guide on building a calm-finding routine; audio version with calm-voice narration
+- **Lead magnet / QMN funnel fit:** Strong — parents searching for calm-down tools are exactly the MindQuest email list audience
 
 ---
 
 ## Copyright / IP Risk Notes
 
-*Preliminary — Elise confirms during research.*
+*See `research/ip_watchlist.md` for full entries on each flag below.*
 
-- "Finding Calm" as a title — confirm no existing trademarked children's book uses this exact title
-- "Little Calm Brain" — validate on Amazon and USPTO before finalizing character name
-- "Calm brain" as a concept is generic and unprotected; the specific character design and name must be original
-- No major franchise IP risk identified for this angle
-- Ensure any calming character is not visually similar to existing calm-character IP (Bluey, Daniel Tiger, etc.) — no resemblance allowed
-- **Overall IP risk level:** [x] **Low** *(calm framing is generic; title uniqueness to be confirmed)*
+**Inside Out (Disney/Pixar) — LOWER risk than Scorecard 006** (Watchlist entry #1 — Open/Medium)
+"Calm" does not map directly to a named Inside Out character in the way that "anger" or "brain loudness" might. Risk remains that any brain-character imagery would conflict with Inside Out's general brain-control-room concept — apply the same guardrails as Loud Brain: child as protagonist, no personified emotions, no control-room setting.
+
+**"The Story of Little Heart and Brave Brain" (Nov 2025) — PROXIMITY FLAG** (Watchlist entry #2 — Open/Medium-High)
+This self-published book uses "Brave Brain" as a character name. It currently has only 2 reviews and minimal traction, but Elise should:
+1. Confirm QMN has USPTO application or intention for "The Little Brave Brain" title
+2. Monitor this competitor — if it gains traction, it could complicate QMN Book 001 positioning
+3. Ensure QMN's Book 001 character design is sufficiently differentiated from "Little Heart, Brave Brain, and Body" as a concept
+
+**"The Little Calm Brain" as a title:** No existing book with this exact title found in Amazon search. Title should be run through USPTO search before finalizing.
+
+**Breathe Like a Bear:** No IP risk. The exercise-format and Kira Willey brand are distinct from QMN's narrative storybook concept.
+
+**Overall IP risk level:** [x] **Low-Medium** — primarily the "Brave Brain" proximity; Inside Out risk manageable with standard guardrails; title needs USPTO check.
+
+**Disqualifying?** No — IP Safety score 8/10 is well above the disqualifying threshold of ≤ 3.
 
 ---
 
 ## 100-Point Scoring Table
 
-*Elise fills in after completing all research sections above. Use rubric in `docs/niche_research_framework.md`.*
+> ⚠ **SUGGESTED — UNSIGNED** — Suggested AI column populated from Elise's manual research.
+> Elise Final column is blank until Elise confirms and runs `/niche-signoff 008`.
+> Note: THIN EVIDENCE flag applies (1 phrase searched) — suggested total capped at 78/100 (Revise tier).
 
-| # | Category | Max Points | Hypothesis Score | Elise Score | Notes |
+| # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
 |---|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | 7 | /10 | |
-| 2 | Search demand signal | 10 | 7 | /10 | |
-| 3 | Competition weakness | 10 | 7 | /10 | |
-| 4 | Parent pain point clarity | 10 | 8 | /10 | |
-| 5 | Series potential | 10 | 9 | /10 | |
-| 6 | Differentiation potential | 10 | 8 | /10 | |
-| 7 | Production feasibility | 10 | 9 | /10 | |
-| 8 | Copyright/IP safety | 10 | 9 | /10 | |
-| 9 | Monetization potential | 10 | 8 | /10 | |
-| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | |
-| | **TOTAL** | **100** | **81 (hypothesis)** | **/100** | |
+| 1 | Buyer urgency | 10 | 8 | /10 | Strong ongoing need — child dysregulation and inability to self-calm is a consistent, recurring parent pain point. |
+| 2 | Search demand signal | 10 | 7 | /10 | 114 results returned — meaningfully more than Loud Brain phrase. Breathe Like a Bear's BSR #9,571 and 6,310 reviews confirms active purchasing demand. |
+| 3 | Competition weakness | 10 | 5 | /10 | Breathe Like a Bear (Rodale Kids, BSR #9,571, 6,310 reviews) is a Top-100 Amazon seller — genuine, strong competition. Even as exercise format (not storybook), it occupies the same parent purchase intent. Rubric: "Several decent competitors; would need strong differentiation." |
+| 4 | Parent pain point clarity | 10 | 8 | /10 | Review mining from Breathe Like a Bear gives specific, confirmatory parent language: "dysregulated," "sensory-sensitive kiddos," "trauma background," "meltdown onset." Pain point is concrete and confirmed by thousands of reviews. |
+| 5 | Series potential | 10 | 9 | /10 | Direct fit as Book 003 in the established "Little Brain" series (001: Brave, 002: Loud, 003: Calm). Naming convention already established. Rubric: "Natural series." |
+| 6 | Differentiation potential | 10 | 8 | /10 | Clear opportunity: narrative storybook format for ages 4–7 about finding calm does not exist. Breathe Like a Bear (exercise format) and DK's Calm (activity format) leave the story format entirely open. |
+| 7 | Production feasibility | 10 | 8 | /10 | Storybook about a child discovering what calm feels like — single protagonist, warm home/nature settings, visual calm metaphors. Challenge is depicting the "finding" of calm emotionally in illustrations without defaulting to generic breathing-exercise imagery. |
+| 8 | Copyright/IP safety | 10 | 8 | /10 | Lower IP risk than Loud Brain. No major franchise conflict with "calm" framing. Inside Out risk manageable. "Brave Brain" proximity requires monitoring but is currently low-traction. Title needs USPTO search. |
+| 9 | Monetization potential | 10 | 8 | /10 | Strong series upsell path, companion calm-down cards, audio version potential, gift purchase appeal. Book 003 benefits from Books 001 and 002 cross-sell on launch day. |
+| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | Near-perfect fit — understanding calm as a brain state you can recognize and reach for is core MindQuest emotional intelligence content. Book 003 completes the Little Brain series arc. |
+| | **TOTAL** | **100** | **78 (suggested)** | **/100 (Elise)** | Revise-to-Pursue — THIN EVIDENCE cap applied (1 phrase). Validate additional phrases before treating as Pursue. |
 
-*Hypothesis scores are strategic estimates. Elise scores are the only scores that count.*
+**Score interpretation:**
+- 80–100: Strong candidate → proceed to book brief with Elise approval
+- 60–79: Revise → identify weak categories before proceeding
+- Below 60: Reject or park
+- Copyright/IP Safety ≤ 3: Disqualifying regardless of total score
+
+**Note on Competition Weakness (5/10):** If Elise determines a narrative storybook format genuinely does not compete with Breathe Like a Bear's exercise format, Competition Weakness could revise to 6/10, bringing the total to 79/100. If additional phrase searches confirm the narrative storybook gap holds, this likely revises to 80+ (Pursue). This is Elise's call.
 
 ---
 
 ## Final Recommendation
 
-**Score:** ___/100
+**Suggested score (AI):** 78/100 *(THIN EVIDENCE cap — 1 phrase searched)*
+**Elise confirmed score:** /100 *(blank until signed)*
 
-**Recommendation:**
-[ ] **Pursue** — score 60+, brand fit confirmed, no IP red flags
-[ ] **Revise** — identify weak categories and re-evaluate
-[ ] **Reject / Park** — score below 60 or IP risk too high
+**Suggested recommendation (AI):**
+[ ] Pursue
+[x] **Revise** — validate additional phrases before advancing
+[ ] Reject / Park
+
+**The revise path:**
+1. Search additional phrases (`calm down storybook kids`, `finding calm picture book ages 4-7`, `calm brain children's book`) to confirm narrative storybook gap is real and unoccupied
+2. Validate that narrative storybook genuinely occupies different shelf/search space from Breathe Like a Bear (exercise format)
+3. As Book 003 in the Little Brain series, this niche would benefit from Books 001 and 002 launch momentum — reconsider score in series context, not standalone
+
+**If additional phrase validation confirms the narrative storybook gap holds, this likely revises to 80+ (Pursue).**
 
 **Elise decision:** _____________________ Date: _________
 
-*Record this score and decision in `research/gate_7_niche_shortlist.md`.*
+*Record this score and decision in `research/gate_7_niche_shortlist.md` before moving to the next niche.*
 
 ---
 
-*Adjacent niche derivative of Scorecard 004 | Ref: `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md` | `docs/copyright_policy.md` | `research/little_brain_series_architecture.md`*
+*Source: intake `research/_intake/008_calm_brain_intake.md` | Ref: `docs/niche_research_framework.md` | `research/ip_watchlist.md`*
+*Supersedes: `research/scoring/_archive/012_finding_calm_score.md`*

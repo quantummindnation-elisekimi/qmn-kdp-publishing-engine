@@ -1,9 +1,9 @@
 # Gate 7 — Niche Research Shortlist
 
 **Gate 7: Niche Research Only**
-**Status: IN PROGRESS — Elise must complete manual Amazon research before scoring**
+**Status: IN PROGRESS — Scorecards 004, 006, 008 scored (suggested). Elise sign-off required on each before Gate 7 can close.**
 
-*This file is the master tracker for Gate 7. No book concept, character, manuscript, or illustration work begins until Elise selects and approves a niche from this list.*
+*This file is the master tracker for Gate 7. It is the SINGLE SOURCE OF TRUTH for niche IDs, scores, and decisions. One niche = one row = one permanent ID. No niche appears more than once. No book concept, character, manuscript, or illustration work begins until Elise selects and approves a niche from this list.*
 
 ---
 
@@ -19,63 +19,65 @@
 - Do not copy competitor titles, subtitles, descriptions, or concepts
 - Complete the scorecard for each niche before making a decision
 - See `research/manual_amazon_research_instructions.md` for step-by-step research method
+- See `research/AUTOMATION.md` for how the v2 research loop works
 
 ---
 
 ## Candidate Niches — Original 5
 
-| # | Niche | Age Range | Scorecard File | Research Status | Score | Decision |
-|---|---|---|---|---|---|---|
-| 1 | Confidence / Fear of Trying New Things | 4–7 | `scoring/001_confidence_trying_new_things_score.md` | [ ] Not started | ___/100 | ___ |
-| 2 | Bedtime Anxiety / Night Fears | 3–7 | `scoring/002_bedtime_anxiety_score.md` | [ ] Not started | ___/100 | ___ |
-| 3 | First Day of School / Kindergarten Anxiety | 4–7 | `scoring/003_first_day_school_score.md` | [ ] Not started | ___/100 | ___ |
-| 4 | Big Feelings / Anger Management | 3–7 | `scoring/004_big_feelings_anger_score.md` | [ ] Not started | ___/100 | ___ |
-| 5 | Making Friends / Social Anxiety | 4–8 | `scoring/005_making_friends_score.md` | [ ] Not started | ___/100 | ___ |
+| ID | Niche | Age Range | Scorecard | Research Status | Suggested AI Score | Elise Score | Decision |
+|---|---|---|---|---|---|---|---|
+| 001 | Confidence / Fear of Trying New Things | 4–7 | `scoring/001_confidence_trying_new_things_score.md` | Not started | ___/100 | ___/100 | ___ |
+| 002 | Bedtime Anxiety / Night Fears | 3–7 | `scoring/002_bedtime_anxiety_score.md` | Not started | ___/100 | ___/100 | ___ |
+| 003 | First Day of School / Kindergarten Anxiety | 4–7 | `scoring/003_first_day_school_score.md` | Not started | ___/100 | ___/100 | ___ |
+| 004 | Big Feelings / Anger Management | 3–7 | `scoring/004_big_feelings_anger_score.md` | Scored (suggested) | **77/100** | ___/100 | ___ |
+| 005 | Making Friends / Social Anxiety | 4–8 | `scoring/005_making_friends_score.md` | Not started | ___/100 | ___/100 | ___ |
 
-**Research status options:** Not started / In progress / Scored / Approved / Rejected
+**Research status options:** Not started / In progress / Scored (suggested) / Signed / Rejected
 
 ---
 
 ## Adjacent Anger / Big Feelings Derivatives
 
-*These 4 candidates are sub-niches derived from Candidate 4 (Big Feelings / Anger Management). Each takes a different differentiation angle to avoid direct competition with the generic anger workbook market. Elise must complete Amazon validation before scoring.*
+*These 4 candidates are sub-niches derived from Candidate 004 (Big Feelings / Anger Management). Each takes a different differentiation angle to avoid direct competition with the generic anger workbook market.*
 
-*Pre-screen hypothesis scores shown below are strategic estimates only — not real Amazon data. Elise scores override all hypothesis scores.*
+*Scores shown: Suggested AI (AI-generated from Elise's manual research). Elise Score column is blank until Elise signs via `/niche-signoff <id>`.*
 
-| # | Niche / Title Angle | Age Range | Scorecard File | Hypothesis Score | Research Status | Elise Score | Decision |
+| ID | Niche / Title Angle | Age Range | Scorecard | Research Status | Suggested AI Score | Elise Score | Decision |
 |---|---|---|---|---|---|---|---|
-| 6 | My Brain Gets Really Loud — overwhelm/brain-noise framing | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | 82/100 | [ ] Not started | ___/100 | ___ |
-| 7 | My Feelings Are Not Too Big — anti-shame/validation | 4–7 | `scoring/007_my_feelings_not_too_big_score.md` | 82/100 | [ ] Not started | ___/100 | ___ |
-| 8 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | 81/100 | [ ] Not started | ___/100 | ___ |
-| 9 | When My Body Feels Like a Storm — somatic/pre-anger body signals | 4–7 | `scoring/009_when_body_feels_storm_score.md` | 78/100 | [ ] Not started | ___/100 | ___ |
+| 006 | My Brain Gets Really Loud — overwhelm/brain-noise framing | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | Scored (suggested) | **83/100** | ___/100 | ___ |
+| 007 | My Feelings Are Not Too Big — anti-shame/validation | 4–7 | `scoring/007_my_feelings_not_too_big_score.md` | Not started | ___/100 | ___/100 | ___ |
+| 008 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | Scored (suggested) ⚠ THIN EVIDENCE | **78/100** | ___/100 | ___ |
+| 009 | When My Body Feels Like a Storm — somatic/pre-anger body signals | 4–7 | `scoring/009_when_body_feels_storm_score.md` | Not started | ___/100 | ___/100 | ___ |
+
+> ⚠ **Scorecard 008 (Finding Calm) — THIN EVIDENCE flag:** Only 1 Amazon search phrase was searched. Suggested score is capped at 78/100 (Revise tier) until Elise validates additional phrases. If additional phrases confirm the narrative storybook gap holds, this likely revises to 80+ (Pursue).
 
 ### Priority for Manual Amazon Validation
 
-Elise should validate the following three in this order before scoring:
+Elise should complete sign-off in this order:
 
-1. **#6 — My Brain Gets Really Loud** *(hypothesis 82/100 — highest series fit with Little Brain brand)*
-2. **#7 — My Feelings Are Not Too Big** *(hypothesis 82/100 — strongest differentiation angle, lowest IP risk)*
-3. **#8 — Finding Calm / The Little Calm Brain** *(hypothesis 81/100 — natural Book 003 in series architecture)*
+1. **#006 — My Brain Gets Really Loud** *(suggested 83/100 — highest confirmed score, natural Book 002, series fit strongest)*
+2. **#008 — Finding Calm / The Little Calm Brain** *(suggested 78/100 — needs additional phrase validation to confirm; likely 80+ if confirmed)*
+3. **#004 — Big Feelings / Anger Management** *(suggested 77/100 — broad parent niche, useful context for sub-niche decisions)*
+4. **#007 — My Feelings Are Not Too Big** *(not yet researched)*
 
-Candidate #9 (Body Signals) is secondary — validate after Top 3 if bandwidth allows.
-
-See `research/little_brain_series_architecture.md` for the series context behind Candidates 6 and 8.
+Candidate #009 (Body Signals) is secondary — validate after top 4 if bandwidth allows.
 
 ---
 
 ## Book 001 Connection
 
-Book 001 (`books/001_the_little_brave_brain/`) was drafted around the **Confidence / Fear of Trying New Things** niche (Candidate 1). Gate 7 research may:
+Book 001 (`books/001_the_little_brave_brain/`) was drafted around the **Confidence / Fear of Trying New Things** niche (Candidate 001). Gate 7 research may:
 
 - **Confirm** this niche is the right one to pursue → Book 001 production continues
 - **Identify a stronger niche** → Book 001 concept may be adjusted, or a different book project begins first
 - **Result in pursuing multiple niches** → Book 001 stays on the confidence niche; a second book project starts on a different niche
 
-Elise makes this decision after all five scorecards are completed.
+Elise makes this decision after all priority scorecards are signed.
 
 ---
 
-## Score Interpretation (from `docs/niche_research_framework.md`)
+## Score Interpretation
 
 | Score | Action |
 |---|---|
@@ -87,15 +89,30 @@ Elise makes this decision after all five scorecards are completed.
 
 ---
 
-## Final Selection
+## Open IP Flags
 
-*Complete after all five scorecards are scored.*
+*From `research/ip_watchlist.md` — active flags affecting Gate 7 niches.*
+
+| # | Flag | Status | Affects |
+|---|---|---|---|
+| 1 | Inside Out (Disney/Pixar) | Open / Medium | Niches 004, 006, 008 |
+| 2 | "Brave Brain" title collision (Nov 2025 publication) | Open / Medium-High | QMN Book 001, Niches 006, 008 |
+| 3 | Dragon metaphor in anger context | Monitoring / Avoidable | Niche 004 |
+| 4 | "Spot"/blob metaphor + "A Little ___" naming | Monitoring / Avoidable | Niche 004 |
+
+*Next action: Elise to initiate USPTO trademark search on "The Little Brave Brain" and "The Little Loud Brain" before either goes to production.*
+
+---
+
+## Gate 7 Sign-Off Block
+
+*Complete after all priority scorecards are signed.*
 
 **Niche selected by Elise:** _________________________________
 
 **Reason for selection:** _________________________________
 
-**Book 001 impact:** [ ] Book 001 confirmed on Candidate 1  [ ] Book 001 adjusted  [ ] New book project started
+**Book 001 impact:** [ ] Book 001 confirmed on Candidate 001  [ ] Book 001 adjusted  [ ] New book project started on different niche
 
 **Elise approval to proceed to Book Brief:** _____________________ Date: _________
 
@@ -103,4 +120,4 @@ Elise makes this decision after all five scorecards are completed.
 
 ---
 
-*Ref: `docs/kdp_workflow.md` Phase 1–3 | `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md`*
+*Ref: `docs/kdp_workflow.md` Phase 1–3 | `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md` | `research/AUTOMATION.md` | `research/ip_watchlist.md`*

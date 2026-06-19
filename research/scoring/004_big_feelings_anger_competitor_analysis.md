@@ -1,7 +1,10 @@
 # Competitor Analysis — Big Feelings / Anger Management / Emotional Regulation
+## Gate 7 Candidate #4
 
-*Companion to Scorecard 010. Populated from Elise's manual intake `research/_intake/004_anger_intake.md`.*
-*No Amazon data was collected by Claude. All competitor observations are Elise's.*
+**Date:** 2026-06-19
+**Source:** Elise's manual Amazon research, intake: `research/_intake/004_anger_intake.md`
+**For use with:** `research/scoring/004_big_feelings_anger_score.md`
+*Supersedes: `research/scoring/_archive/010_big_feelings_anger_competitor_analysis.md`*
 
 ---
 
@@ -31,7 +34,7 @@ A third format targets educational institutions through concept-based series —
 
 ## The Strongest Competitors and Why
 
-**The highest-review workbook** (8,977 reviews, #9,172 BSR) is the demand proof for the niche — not a creative model for QMN. Its strength is in its comprehensiveness and its therapist credibility positioning. Its weakness is its age range (6–10) and its clinical format. It leaves the 3–6 age range underserved at the storybook level. QMN should note this gap but not attempt to compete in the workbook format.
+**The highest-review workbook** (8,977 reviews, #9,172 BSR) is the demand proof for the niche — not a creative model for QMN. Its strength is in its comprehensiveness and therapist credibility positioning. Its weakness is its age range (6–10) and its clinical format. It leaves the 3–6 age range underserved at the storybook level. QMN should note this gap but not attempt to compete in the workbook format.
 
 **The leading anger storybook** (#7,720 BSR, 4,584 reviews) is the most direct competition for any QMN storybook entry. It has proven that an anger-management storybook can reach a strong BSR and sustain thousands of reviews. It is well-produced and part of a branded series. Its weakness, based on the review pattern, is that it addresses anger as a management problem — the framing is still "control your anger." It does not appear to engage the upstream moment of overwhelm before the meltdown.
 
@@ -78,7 +81,7 @@ A storybook about the moment before anger: the brain getting louder and louder a
 
 Differentiator: Enters the niche upstream, before the meltdown, when intervention is still possible. No dragon. No spot. No anger-management framing.
 
-IP watch: Brain-as-protagonist must avoid any visual resemblance to Inside Out's emotion-characters-in-a-head concept. The child is the brain — the brain is not a separate character living inside the child.
+IP watch: Brain-as-protagonist must avoid any visual resemblance to Inside Out's emotion-characters-in-a-head concept. The child is the brain — the brain is not a separate character living inside the child. See `research/ip_watchlist.md` entry #1.
 
 **Direction B — "The Anti-Shame Validation Story"**
 A storybook that speaks directly to the child who has been told their feelings are too much — and tells them: your brain is working. Your feelings make sense. And here is one thing you can do with them. This direction reframes the emotional contract from "manage your anger" to "understand your feelings."
@@ -109,7 +112,8 @@ IP watch: Low risk. Body sensations framing is clinical/educational and not IP-p
 
 ---
 
-*Companion to: `research/scoring/010_big-feelings-anger_score.md`*
+*Companion to: `research/scoring/004_big_feelings_anger_score.md`*
 *Intake source: `research/_intake/004_anger_intake.md`*
 *Related scorecards: 006 (My Brain Gets Really Loud), 007 (My Feelings Are Not Too Big), 008 (Finding Calm), 009 (When My Body Feels Like a Storm)*
-*Ref: `docs/copyright_policy.md` | `docs/niche_research_framework.md`*
+*Ref: `docs/copyright_policy.md` | `docs/niche_research_framework.md` | `research/ip_watchlist.md`*
+*Supersedes: `research/scoring/_archive/010_big_feelings_anger_competitor_analysis.md`*

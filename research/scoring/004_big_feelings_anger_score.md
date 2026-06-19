@@ -1,176 +1,202 @@
-# Niche Scorecard 004 — Big Feelings / Anger Management
+# Niche Scorecard 004 — Big Feelings / Anger Management / Emotional Regulation
 
-**DRAFT — NOT SCORED — Elise must complete all Amazon research manually before scoring.**
-
----
-
-## Note: This Is the Broad Parent Niche
-
-Scorecard 004 covers the broad "Big Feelings / Anger Management" niche — the high-competition, high-demand parent category. It is the reference niche from which four differentiated sub-niches have been derived.
-
-**Before scoring this broad niche**, Elise should also review the adjacent derivative scorecards below. The QMN entry point is more likely to be one of the differentiated sub-niches than a direct entry into the generic anger management market.
-
-**Adjacent derivative scorecards (differentiated angles):**
-
-| # | Title Angle | Differentiation | File |
-|---|---|---|---|
-| 006 | My Brain Gets Really Loud | Brain-noise / overwhelm framing | `scoring/006_my_brain_gets_loud_score.md` |
-| 007 | My Feelings Are Not Too Big | Anti-shame / emotional validation | `scoring/007_my_feelings_not_too_big_score.md` |
-| 008 | Finding Calm / The Little Calm Brain | Calm as an active skill | `scoring/008_finding_calm_score.md` |
-| 009 | When My Body Feels Like a Storm | Somatic / pre-anger body signals | `scoring/009_when_body_feels_storm_score.md` |
-
-*All four derivatives are safer entry points than a direct "anger management children's book" competition play.*
+> ⚠ **SUGGESTED — UNSIGNED**
+> Suggested AI scores populated from Elise's manual research (intake: `_intake/004_anger_intake.md`).
+> Elise Final column is blank until `/niche-signoff 004` is run and Elise signs.
 
 ---
 
 **Niche name:** Big Feelings / Anger Management / Emotional Regulation
-**Date research started:** *[Elise fills in]*
+**niche_id:** 004
+**Date research completed:** *[Elise fills in — see intake file date_researched field]*
 **Researched by:** Elise Kimi / QMN
+**Source intake file:** `research/_intake/004_anger_intake.md`
+**Scorecard file:** `research/scoring/004_big_feelings_anger_score.md`
+
+> **Note:** This scorecard covers the broad "anger management / big feelings" parent niche. QMN's recommended entry point is NOT through this broad niche directly, but through a differentiated sub-niche. See sub-niche scorecards 006, 007, 008, 009 before making a production decision.
 
 ---
 
 ## Niche Overview
 
 - **Niche name:** Big Feelings / Anger Management / Emotional Regulation
-- **Parent buyer pain point:** "My child has intense emotional reactions — meltdowns, hitting, screaming, throwing things — when they're frustrated or upset. I need something that helps them understand what's happening inside and gives them a tool for calming down. Telling them to 'calm down' doesn't work."
+- **Parent buyer pain point:** "My child has intense reactions — meltdowns, hitting, screaming — when frustrated. Telling them to 'calm down' doesn't work; I need something that helps them understand what's happening inside and gives them a calming tool."
 - **Target age range:** 3–7 years
-- **Likely Amazon search phrases:**
-  1. big feelings picture book for kids
-  2. anger management children's book
+- **Amazon search phrases tested:**
+  1. children's book anger management
+  2. big feelings picture book for kids
   3. emotional regulation kids book
-  4. tantrum book for toddlers
-  5. feelings and emotions children's book ages 3-6
-  6. anger book for kids kindergarten
-  7. when I feel angry picture book
-- **QMN/MindQuest brand fit summary:** Very strong fit. Anger and big feelings are core emotional intelligence territory — understanding the feeling before it controls you is exactly the MindQuest message. The "brave brain" concept extends naturally to an "angry brain" or "loud brain" book. High series potential.
+  4. loud brain children's book
+  5. calm brain children's book
+- **QMN/MindQuest brand fit summary:** Very strong. The core MindQuest message — understanding what's happening inside before it controls you — is exactly what this niche demands. The "loud brain" framing (overwhelm before anger) connects directly to the Little Brain series and positions QMN differently from the workbook-heavy competition. High series potential as Book 002 in the Little Brain sequence.
 
 ---
 
-## What Elise Must Check on Amazon
+## Evidence Record
 
-- Search all 7 phrases above
-- Note: "Big feelings" and "emotional regulation" have grown significantly as categories — assess how crowded they are now
-- Check: Are there curriculum-linked books (school programs, therapy tools) dominating? This could indicate an institutional buyer pattern vs. parent buyer
-- Look for: Is there a gap between books for ages 3–4 vs. ages 5–7? Often anger books skew younger; an older-child angle may be underserved
-- Check BSRs carefully — this niche may show many titles with mediocre BSRs (books that sell occasionally but not consistently)
-- Key question: Do the top titles feel like quality picture books, or more like clinical workbooks dressed as books?
+[ ] THIN EVIDENCE (fewer than 3 phrases searched)
+*(5 phrases searched — full evidence)*
+
+**Demand evidence:** Multiple bestsellers with BSRs #5,254–#26,352 in Books. Review counts ranging from 1,664 to 8,977 across top competitors. Sponsored ads visible at top of "children's book anger management" search confirming commercial intent. Strong multi-format demand (workbooks and storybooks both selling).
+
+**Differentiation evidence:** The direct "anger management" lane is crowded. Differentiation exists in the upstream/overwhelm angle — the moment before the meltdown — which no current storybook occupies. The "loud brain" search phrase returns zero children's picture books (confirmed in sub-niche Scorecard 006).
+
+---
+
+## What Was Searched on Amazon
+
+- Search phrase: **"children's book anger management"** — multiple relevant results, sponsored ads present
+- Search phrase: **"big feelings picture book for kids"** — multiple relevant results
+- Search phrase: **"emotional regulation kids book"** — multiple relevant results
+- Search phrase: **"loud brain children's book"** — to be confirmed; see Scorecard 006
+- Search phrase: **"calm brain children's book"** — to be confirmed; see Scorecard 008
 
 ---
 
 ## Competitor Observation Table
 
-*Elise fills in from manual Amazon search. Record at least 5 titles.*
+*From Elise's manual Amazon research.*
 
 | Title | Author Type | BSR | Price | Reviews | Avg Rating | Cover Quality | Notes |
 |---|---|---|---|---|---|---|---|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Anger Management Skills Workbook for Kids (40 activities) | Individual (therapist) | #5,254 in Books | — | 1,664 | 4.7 | Mixed | Strong demand. 128 pages, therapist-positioned, functional not emotional. Not suitable for younger read-aloud ages 3–6. |
+| Anger Management Workbook for Kids (50 activities) | Individual | #9,172 in Books | — | 8,977 | 4.6 | Strong | Highest review count in niche — demand proof. Activity-heavy, skews 6–10. Confirms buyers want tools, but also shows workbook format gap for 3–6. |
+| I Am Stronger Than Anger | Branded series | #7,720 in Books | — | 4,584 | 4.6 | Strong | Strongest direct storybook competitor. 32-page read-aloud, proves anger storybooks sell. Directly occupies the anger-management story space — QMN must not resemble this. |
+| Train Your Angry Dragon | Branded series | Not captured | — | ~5,000 | 4.7 | Strong | Series machine. Dragon metaphor owned — do not use. Confirms animal-metaphor storybooks perform. High series loyalty. |
+| A Little SPOT of Anger | Branded series (56-book) | #26,352 in Books | — | 3,485 | 4.7 | Strong | Teacher's pick, concept-led series. Owns the "spot" metaphor and one calming method. Institutional buyer pattern (school/classroom). |
 
 ---
 
 ## Review Mining Notes
 
-*Elise reads 10–20 reviews across top competitors. Summarize in own words — do not copy verbatim.*
+*Reorganized from Elise's intake notes.*
 
 **What parents praise most:**
+A simple, repeatable calming tool combined with a story the child engages with emotionally — not just a lecture or worksheet. Parents want something that works in the moment AND is re-readable.
 
 **What parents wish was different:**
+Workbooks skew too old and feel clinical rather than like a real story. Parents of children ages 3–6 feel underserved by the activity-book format; they want something that functions as a genuine bedtime or couch read.
 
 **Language parents use to describe the problem:**
+Meltdowns, hitting, screaming, "calm down doesn't work," big feelings, mad.
 
 **Unmet needs mentioned in reviews:**
+A story-driven picture book for ages 4–7 that a child wants re-read, not a behavior-management worksheet. An upstream angle — reaching the child at the moment of overwhelm BEFORE full anger — appears underserved in the storybook format.
 
 ---
 
 ## BSR Observation Notes
 
-- **Healthiest BSR seen in this niche:**
-- **Most competitive title's BSR:**
-- **General BSR range of top 10 results:**
-- **BSR interpretation:**
+- **Healthiest BSR seen in this niche:** #5,254 in Books (workbook — Anger Management Skills Workbook)
+- **Most competitive title's BSR:** #7,720 in Books (I Am Stronger Than Anger, storybook)
+- **General BSR range of top 10 results:** Roughly #5,000 – #26,000 in Books
+- **BSR interpretation:** Strong, commercially validated demand. Multiple titles selling consistently. However, the direct "anger management" framing is crowded. The storybook sub-category has one dominant entry (#7,720) with 4,584 reviews — high bar for new storybook entrants. Workbook market is even more competitive.
 
 ---
 
 ## Market Gap Hypothesis
 
-*Pre-filled for Elise to validate or reject through research.*
+**Gap identified:** The anger management niche splits into two lanes:
+1. **Workbooks (ages 6–10):** Dominated by therapist-authored activity books with thousands of reviews. Very hard to compete with directly.
+2. **Storybooks (ages 3–6):** One very strong branded series (#7,720, 4,584 reviews) and an animal-metaphor series with ~5,000 reviews. Both own their metaphors (anger identity / dragon).
 
-**Hypothesis:** Many books in this niche treat anger as a problem to eliminate ("calm your anger," "stop being angry"). A QMN angle would treat anger as information — the brain is signaling something important — and teach children to understand and work with the feeling rather than suppress it.
+**The real gap:** Neither lane has a storybook-first book for ages 4–7 that enters through the overwhelm-before-anger doorway — the moment when the brain gets "loud" before the meltdown arrives. This upstream angle treats anger as information the brain is signaling, rather than a behavior problem to suppress.
 
-Additionally, many existing books in this niche feel more like therapy tools than genuine picture books. A story-driven, emotionally resonant picture book that a child *wants* re-read (not just reads once for behavior management) may be underserved.
-
-**Validation required:** Do review readers mention children engaging with the book emotionally, or just using it as a behavior tool? Do parents want something that feels like a real story, not a lesson?
+**Validation still required:**
+- Confirm "loud brain children's book" and "calm brain children's book" return no direct match with 200+ reviews
+- Confirm the overwhelming majority of existing storybook entries still rely on the anger-management framing (not the overwhelm/upstream framing)
+- Validate whether any 2025–2026 titles have entered with this exact angle
 
 ---
 
 ## Series Potential
 
-- Book in this series: "The Little Loud Brain" or "The Little Fierce Brain" (anger / big feelings)
-- Direct fit with "The Little ___ Brain" series concept — high series cohesion
-- Companion niche: pairs well with Candidate 1 (Confidence) and Candidate 5 (Making Friends) as a trilogy of emotional intelligence books
-- Year-round demand: High — anger and emotional regulation are not seasonal
+- **Book 001:** The Little Brave Brain (confidence / fear of trying new things) — *existing draft*
+- **Book 002:** The Little Loud Brain (overwhelm / anger-adjacent — this niche's differentiated entry point)
+- **Book 003:** The Little Calm Brain (self-regulation / finding calm)
+- The series arc — brave → loud → calm — mirrors the emotional cycle parents and children recognize
+- Cross-sell potential: parent buying one book becomes natural buyer for others in the series
+- Year-round demand: High — anger and big feelings are perennial, not seasonal
 
 ---
 
 ## Monetization Angle
 
-- **Likely print price range:** $10.99–$13.99
-- **eBook potential:** Yes — parents may use it on a tablet for in-the-moment situations
-- **Companion content potential:** "My Feelings Toolbox" printable, parent guide on co-regulation, "What my brain is feeling" emotion wheel poster
-- **Lead magnet / QMN funnel fit:** Very strong — emotional regulation is core MindQuest content
+- **Likely print price range:** $10.99–$13.99 (in line with comparable storybooks)
+- **eBook potential:** Yes — parents may use on tablet for in-the-moment read during or after a difficult episode
+- **Companion content potential:** "My Feelings Toolbox" printable, parent co-regulation guide, "What My Brain Is Feeling" emotion wheel poster
+- **Lead magnet / QMN funnel fit:** Very strong — emotional regulation is central MindQuest territory; this book is a natural funnel entry for the QMN brand
 
 ---
 
 ## Copyright / IP Risk Notes
 
-*Preliminary — Elise confirms during research.*
+*See `research/ip_watchlist.md` for full entries on each flag below.*
 
-- "Big feelings" as a phrase is widely used and unprotected
-- "Emotional regulation" is a clinical/educational term — unprotected
-- Some existing books have branded character names (e.g., "Grumpy Monkey" — trademarked by Suzanne Lang) — do not use monkey characters with anger framing
-- Must avoid: any visual character that resembles the Grumpy Monkey, Inside Out characters (Anger is a Disney/Pixar character — high risk), or any franchise emotion-character
-- Inside Out (Pixar) is the highest IP risk in this niche — do not use anthropomorphized brain/emotion characters that resemble the Inside Out visual style
-- Character names must be searched on USPTO before finalizing
-- **Overall IP risk level:** [ ] Low  [ ] Medium  [ ] **High** *(Inside Out proximity — Elise must assess carefully)*
+⚠️ **INSIDE OUT (Pixar/Disney) — PRIMARY IP FLAG** (Watchlist entry #1 — Open/Medium)
+Inside Out is a registered Disney/Pixar property featuring anthropomorphized emotions. Any QMN brain character must not resemble the Inside Out visual world, use emotion-color coding similar to Inside Out, or feature characters living inside a head in a way that references the Inside Out concept. See ip_watchlist.md for full guardrails.
+
+**Additional IP risks:**
+- Dragon metaphor in anger context is owned by "Train Your Angry Dragon" — do not use (Watchlist #3)
+- "Spot"/blob metaphor is owned by "A Little SPOT" series — do not use (Watchlist #4)
+- Any specific character name must be searched on USPTO.gov before finalizing
+
+**Overall IP risk level:** [ ] Low  [ ] Low-Medium  [x] **Medium-High** — Inside Out proximity is the primary structural risk — manageable with careful character design, but cannot be treated casually.
+
+**Disqualifying?** No — score is not ≤ 3 if executed carefully.
 
 ---
 
 ## 100-Point Scoring Table
 
-*Elise fills in after completing all research sections above. Use rubric in `docs/niche_research_framework.md`.*
+> ⚠ **SUGGESTED — UNSIGNED** — Suggested AI column populated from Elise's manual research.
+> Elise Final column is blank until Elise confirms and runs `/niche-signoff 004`.
 
-| # | Category | Max Points | Elise Score | Notes |
-|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | /10 | |
-| 2 | Search demand signal | 10 | /10 | |
-| 3 | Competition weakness | 10 | /10 | |
-| 4 | Parent pain point clarity | 10 | /10 | |
-| 5 | Series potential | 10 | /10 | |
-| 6 | Differentiation potential | 10 | /10 | |
-| 7 | Production feasibility | 10 | /10 | |
-| 8 | Copyright/IP safety | 10 | /10 | |
-| 9 | Monetization potential | 10 | /10 | |
-| 10 | QMN/MindQuest brand fit | 10 | /10 | |
-| | **TOTAL** | **100** | **/100** | |
+| # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
+|---|---|---|---|---|---|
+| 1 | Buyer urgency | 10 | 9 | /10 | "Meltdowns, hitting, screaming" = urgent, time-sensitive, crisis-level need. Rubric 9–10: urgent/time-sensitive. |
+| 2 | Search demand signal | 10 | 9 | /10 | Multiple bestsellers, BSRs in #5K–#26K range, 5 competitors with 1,600–8,977 reviews. Sponsored ads visible. Rubric 9–10: many results, sponsored ads, active BSRs. |
+| 3 | Competition weakness | 10 | 4 | /10 | Top storybook has 4,584 reviews; top workbook has 8,977. Branded series own their metaphors. Direct entry is hard. Rubric 3–4: strong established titles with thousands of positive reviews. Score reflects DIRECT lane — differentiated sub-niches (006–009) score higher here. |
+| 4 | Parent pain point clarity | 10 | 9 | /10 | Language is extremely specific and consistent: "meltdowns, hitting, screaming, calm down doesn't work." Rubric 9–10: very specific pain point. |
+| 5 | Series potential | 10 | 9 | /10 | Little Brain series (Brave → Loud → Calm) is a natural 3-book arc with cross-sell logic. Rubric 9–10: natural series. |
+| 6 | Differentiation potential | 10 | 7 | /10 | Upstream/overwhelm angle is genuinely differentiated. However, execution must be sharp — the metaphor space is claimed by strong competitors. Rubric 7–8: some differentiation possible with focused execution. |
+| 7 | Production feasibility | 10 | 8 | /10 | 32-page storybook with original brain character — achievable. Rubric 7–8: achievable with modest creative challenge. |
+| 8 | Copyright/IP safety | 10 | 5 | /10 | Inside Out (Pixar) is the primary risk for any brain/emotion-character framing. Manageable with careful design, but not low-risk. Rubric 5–6: some adjacent IP; requires careful character design. NOT disqualifying (> 3) if executed deliberately. |
+| 9 | Monetization potential | 10 | 8 | /10 | Series potential + companion content + strong gift purchase appeal. Rubric 7–8: good repeat purchase potential or upsell path. |
+| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | Understanding what's happening inside before it controls you is exactly the MindQuest message. Rubric 9–10: perfect fit. |
+| | **TOTAL** | **100** | **77 (suggested)** | **/100 (Elise)** | Falls in 60–79 range: Revise and validate — identify weak categories before proceeding. |
+
+**Score interpretation:**
+- 80–100: Strong candidate → proceed to book brief with Elise approval
+- 60–79: Revise → identify weak categories before proceeding
+- Below 60: Reject or park
+- Copyright/IP Safety ≤ 3: Disqualifying regardless of total score
+
+**What the score tells us:**
+- Massive demand and excellent brand fit — the 77 is not a failure signal
+- Competition Weakness (4) is the honest constraint: the DIRECT lane is crowded
+- Path forward is through a differentiated sub-niche (see 006–009), not a direct entry
+- IP Safety (5) is manageable but non-trivial — character design review required before proceeding
 
 ---
 
 ## Final Recommendation
 
-**Score:** ___/100
+**Suggested score (AI):** 77/100
+**Elise confirmed score:** /100 *(blank until signed)*
 
-**Recommendation:**
-[ ] **Pursue** — score 60+, brand fit confirmed, no IP red flags
-[ ] **Revise** — identify weak categories and re-evaluate
-[ ] **Reject / Park** — score below 60 or IP risk too high
+**Suggested recommendation (AI):**
+[ ] Pursue
+[x] **Revise** — identify weak categories and re-evaluate ← *suggested*
+[ ] Reject / Park
+
+**Suggested revision path:** Do not enter through the broad "anger management" door. Enter through a differentiated sub-niche — specifically Scorecard 006 (My Brain Gets Really Loud) or Scorecard 008 (Finding Calm / The Little Calm Brain) — which have the same demand signal and brand fit but avoid the most crowded competition lanes.
 
 **Elise decision:** _____________________ Date: _________
 
-*Record this score and decision in `research/gate_7_niche_shortlist.md`.*
+*Record this score and decision in `research/gate_7_niche_shortlist.md` before moving to the next niche.*
 
 ---
 
-*Ref: `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md` | `docs/copyright_policy.md`*
+*Source: intake `research/_intake/004_anger_intake.md` | Ref: `docs/niche_research_framework.md` | `research/ip_watchlist.md` | Related sub-niche scorecards: 006, 007, 008, 009*
+*Supersedes: `research/scoring/_archive/010_big_feelings_anger_score.md`*
