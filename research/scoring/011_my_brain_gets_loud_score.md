@@ -20,13 +20,13 @@
 - **Parent buyer pain point:** My child becomes overwhelmed — their brain feels like it's "too loud" — and they can't explain why. I need something that names what they're feeling before the meltdown happens, not just after.
 - **Target age range:** 4–7
 - **Amazon search phrases tested:**
-  1. The Little Loud Brain
+  1. The Little Loud Brain *(2026-06-19 — zero children's picture books returned)*
+  2. My Brain Gets Really Loud *(2026-06-19 — returns neurodivergence/sensory overload books; see `006b_loud_brain_supplemental_intake.md`)*
 - **Additional phrases to validate** *(not yet searched — recommended for follow-up)*:
-  2. loud brain children's book
-  3. my brain is loud kids book
-  4. overwhelm children picture book ages 4-7
-  5. big feelings brain storybook
-  6. sensory overload children's book ages 4-7
+  3. loud brain children's book
+  4. my brain is loud kids book
+  5. overwhelm children picture book ages 4-7
+  6. big feelings brain storybook
 - **QMN/MindQuest brand fit summary:** Near-perfect fit. The "loud brain" concept extends the core MindQuest message — understanding what your brain is doing, not being controlled by it — into the overwhelm/anger-adjacent space. Natural fit as Book 002 in the "Little Brain" series following "The Little Brave Brain."
 
 ---
@@ -53,6 +53,18 @@
 | Genius (34) (Rediscovered Classics) | Publisher brand | Not captured | 59.50 pb | 104 | 4.6 | Mixed | General adult. Unrelated to children's emotional topic. |
 
 **Key finding: Zero children's picture books appeared for "The Little Loud Brain" search.**
+
+---
+
+### Supplemental Competitors — "My Brain Gets Really Loud" search (2026-06-19)
+
+*From Elise's manual Amazon search of supplemental phrase. See `006b_loud_brain_supplemental_intake.md`.*
+
+| Title | Author Type | BSR | Price (MYR) | Reviews | Avg Rating | Cover Quality | Notes |
+|---|---|---|---|---|---|---|---|
+| When My Brain Is Messy (Nurturing Neurodivergence Series) | Individual | #581,069 Books; #574 Children & Adolescent's Autism Spectrum; #835 Children's Books on Disabilities | 43.26 pb / 76.66 hc / 0.00 KU | 355 | 4.6 | Strong | Tania Wieclaw + Rahul Chakraborty. Apr 2023. Self-published. 32 pages. Ages 2–8. Written by autistic author. Book 1 of 2: Nurturing Neurodivergence Series. About a "little autistic dinosaur" navigating sensory challenges. Explicitly positioned for autism/neurodivergence — 90% of BSR categories are autism-specific. Reviews confirm parents of autistic/neurodivergent children only. KEY FINDING: This search phrase routes Amazon to neurodivergence content, not general overwhelm. QMN's general-overwhelm positioning is differentiated. |
+| When things get too loud: A story about sensory overload (Sensory Series) | Individual | Not captured | 50.50 pb / 16.45 Kindle | 176 | 4.7 | Strong | Anne Alcott. Jul 2021. Book 1 of 2: Sensory Series. DIRECTLY ADJACENT framing — uses "too loud" language. Positioned for sensory processing disorder/overload, not general overwhelm. Closest existing competitor concept to QMN's "loud brain" framing, but sensory/SPD positioning differentiates from a general pre-meltdown awareness book. 176 reviews = meaningful traction in adjacent space. |
+| My Busy Brain | Individual | Not captured | 98.92 hc / 57.59 pb | 2 | 5.0 | Mixed | Patricia Belinelo + Jessica Aguado. Oct 2025. Ages 6–12 (older than QMN target). Very new, no traction. High price point. |
 
 ---
 
@@ -144,7 +156,7 @@ Inside Out (2015) and Inside Out 2 (2024) both feature emotions as characters li
 | # | Category | Max Points | Suggested Score | Rationale (tied to rubric) |
 |---|---|---|---|---|
 | 1 | Buyer urgency | 10 | 8/10 | Strong ongoing need — overwhelm/meltdowns are a consistent, recurring parent pain point, not seasonal. Not a 9–10 because it lacks the acute time-trigger of "starting school tomorrow." |
-| 2 | Search demand signal | 10 | 6/10 | This specific phrase ("The Little Loud Brain") returned zero relevant results — low direct signal. However, the adjacent SEL ecosystem (big feelings, anger management) shows massive demand confirmed by 5,000+ review books in "also viewed." Score reflects the phrase being unclaimed, not absent of demand. Elise should search 3–4 adjacent phrases before finalizing this score. |
+| 2 | Search demand signal | 10 | 7/10 | **Updated 2026-06-19 after supplemental search "My Brain Gets Really Loud."** Original phrase ("The Little Loud Brain") returned zero relevant results. Supplemental phrase confirms parents ARE searching "loud brain" language — but currently find only autism/neurodivergence books (When My Brain Is Messy, 355 reviews; When Things Get Too Loud, 176 reviews). Active search demand confirmed; general-overwhelm framing is unoccupied. Rubric: "Clear demand with several titles appearing in organic search" — the adjacent/supplemental search confirms demand exists, the exact framing is unoccupied. Score revised from 6 to 7. |
 | 3 | Competition weakness | 10 | 10/10 | Zero children's picture books in the search results. No competitors to displace. The niche is completely unoccupied in the exact "loud brain" framing. Rubric: "Most top results are low-quality, poorly reviewed, or visually weak" — here there are no results at all. |
 | 4 | Parent pain point clarity | 10 | 7/10 | Pain point is clearly defined in the intake, but could not be confirmed through direct review mining (no relevant competitor titles existed). Score reflects strong conceptual clarity, with a note that 1–2 additional searches (e.g., "overwhelm picture book kids") should yield confirmatory parent language. |
 | 5 | Series potential | 10 | 9/10 | Direct fit with the established "Little Brain" series (Book 001: Little Brave Brain already drafted). Book 002: Little Loud Brain is the natural next entry. Rubric: "Natural series" — 9–10 range. |
@@ -153,7 +165,7 @@ Inside Out (2015) and Inside Out 2 (2024) both feature emotions as characters li
 | 8 | Copyright/IP safety | 10 | 7/10 | Medium risk due to Inside Out (Pixar/Disney) proximity. Manageable with deliberate art direction (child as protagonist, no control-room concept, no personified emotion characters). Character name requires USPTO check before finalizing. Rubric: "Low risk with standard due diligence" — applies if Inside Out guardrails are followed. |
 | 9 | Monetization potential | 10 | 8/10 | Strong series upsell path (3-book Little Brain series), companion printables, gift purchase appeal. Rubric: "Good repeat purchase potential or upsell path." |
 | 10 | QMN/MindQuest brand fit | 10 | 9/10 | Near-perfect fit — understanding what your brain is doing (not being controlled by it) is the core MindQuest message. Overwhelm awareness is foundational emotional intelligence content. Rubric: "Strong fit with clear brand connection" — approaches "perfect fit" given series architecture. |
-| | **TOTAL** | **100** | **82/100** | **Strong candidate — Pursue (pending Elise confirmation)** |
+| | **TOTAL** | **100** | **83/100** | **Strong candidate — Pursue (pending Elise confirmation). Score updated from 82→83 after supplemental search phrase "My Brain Gets Really Loud" confirmed active search demand.** |
 
 **Score interpretation:**
 - 80–100: Strong candidate → proceed to book brief with Elise approval
@@ -167,7 +179,7 @@ Inside Out (2015) and Inside Out 2 (2024) both feature emotions as characters li
 
 ## Final Recommendation
 
-**Suggested score:** 82/100
+**Suggested score:** 83/100 *(updated from 82 after supplemental phrase search — see score table notes)*
 
 **Suggested recommendation:**
 [x] **Pursue** — score 80+, strong brand fit, IP risk manageable with clear art direction guidelines
@@ -185,4 +197,4 @@ Inside Out (2015) and Inside Out 2 (2024) both feature emotions as characters li
 
 ---
 
-*Ref: `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md` | `research/_intake/006_loud_brain_intake.md` | `docs/copyright_policy.md`*
+*Ref: `docs/niche_research_framework.md` | `research/manual_amazon_research_instructions.md` | `research/_intake/006_loud_brain_intake.md` | `research/_intake/006b_loud_brain_supplemental_intake.md` | `docs/copyright_policy.md`*
