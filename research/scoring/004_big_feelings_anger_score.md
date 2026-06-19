@@ -4,6 +4,25 @@
 
 ---
 
+## Note: This Is the Broad Parent Niche
+
+Scorecard 004 covers the broad "Big Feelings / Anger Management" niche — the high-competition, high-demand parent category. It is the reference niche from which four differentiated sub-niches have been derived.
+
+**Before scoring this broad niche**, Elise should also review the adjacent derivative scorecards below. The QMN entry point is more likely to be one of the differentiated sub-niches than a direct entry into the generic anger management market.
+
+**Adjacent derivative scorecards (differentiated angles):**
+
+| # | Title Angle | Differentiation | File |
+|---|---|---|---|
+| 006 | My Brain Gets Really Loud | Brain-noise / overwhelm framing | `scoring/006_my_brain_gets_loud_score.md` |
+| 007 | My Feelings Are Not Too Big | Anti-shame / emotional validation | `scoring/007_my_feelings_not_too_big_score.md` |
+| 008 | Finding Calm / The Little Calm Brain | Calm as an active skill | `scoring/008_finding_calm_score.md` |
+| 009 | When My Body Feels Like a Storm | Somatic / pre-anger body signals | `scoring/009_when_body_feels_storm_score.md` |
+
+*All four derivatives are safer entry points than a direct "anger management children's book" competition play.*
+
+---
+
 **Niche name:** Big Feelings / Anger Management / Emotional Regulation
 **Date research started:** *[Elise fills in]*
 **Researched by:** Elise Kimi / QMN
