@@ -185,16 +185,16 @@ Both Inside Out films feature emotions as characters living inside a child's hea
 
 | # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
 |---|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | 8 | /10 | Strong ongoing need — overwhelm/meltdowns are a consistent, recurring parent pain point, not seasonal. Not 9–10 because it lacks the acute time-trigger of "starting school tomorrow." |
-| 2 | Search demand signal | 10 | 7 | /10 | Supplemental phrase confirms parents ARE searching "loud brain" language — but currently find only autism/neurodivergence books. Active search demand confirmed; general-overwhelm framing is unoccupied. Score updated 6→7 after supplemental search. |
-| 3 | Competition weakness | 10 | 10 | /10 | Zero children's picture books in the search results. No competitors to displace. The niche is completely unoccupied in the exact "loud brain" framing. Rubric: most results are low-quality — here there are no results at all. |
-| 4 | Parent pain point clarity | 10 | 7 | /10 | Pain point is clearly defined in the intake, but could not be confirmed through direct review mining (no relevant competitor titles existed). 1–2 additional searches should yield confirmatory parent language. |
-| 5 | Series potential | 10 | 9 | /10 | Direct fit with the established "Little Brain" series (Book 001: Little Brave Brain already drafted). Book 002 working positioning is the natural next entry. Rubric: "Natural series" — 9–10 range. |
-| 6 | Differentiation potential | 10 | 10 | /10 | Complete differentiation — no children's picture book uses "loud brain" or overwhelm framing for ages 4–7. The space is wholly unoccupied. |
-| 7 | Production feasibility | 10 | 8 | /10 | Storybook about a child experiencing overwhelm. Single child protagonist, manageable setting. Challenge is illustrating "loudness" and overwhelm in a visual, child-friendly way — achievable with clear art direction after Gate 8. |
-| 8 | Copyright/IP safety | 10 | 7 | /10 | Medium risk due to Inside Out proximity. Manageable with deliberate art direction. Character name and title require Gate 8 checks. |
-| 9 | Monetization potential | 10 | 8 | /10 | Strong series upsell path (3-book Little Brain series), companion printables, gift purchase appeal. |
-| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | Near-perfect fit — understanding what your brain is doing (not being controlled by it) is the core MindQuest message. Approaches "perfect fit" given series architecture. |
+| 1 | Buyer urgency | 10 | 8 | **8** | Strong ongoing need — overwhelm/meltdowns are a consistent, recurring parent pain point, not seasonal. Not 9–10 because it lacks the acute time-trigger of "starting school tomorrow." |
+| 2 | Search demand signal | 10 | 7 | **7** | Supplemental phrase confirms parents ARE searching "loud brain" language — but currently find only autism/neurodivergence books. Active search demand confirmed; general-overwhelm framing is unoccupied. Score updated 6→7 after supplemental search. |
+| 3 | Competition weakness | 10 | 10 | **10** | Zero children's picture books in the search results. No competitors to displace. The niche is completely unoccupied in the exact "loud brain" framing. Rubric: most results are low-quality — here there are no results at all. |
+| 4 | Parent pain point clarity | 10 | 7 | **7** | Pain point is clearly defined in the intake, but could not be confirmed through direct review mining (no relevant competitor titles existed). 1–2 additional searches should yield confirmatory parent language. |
+| 5 | Series potential | 10 | 9 | **9** | Direct fit with the established "Little Brain" series (Book 001: Little Brave Brain already drafted). Book 002 working positioning is the natural next entry. Rubric: "Natural series" — 9–10 range. |
+| 6 | Differentiation potential | 10 | 10 | **10** | Complete differentiation — no children's picture book uses "loud brain" or overwhelm framing for ages 4–7. The space is wholly unoccupied. |
+| 7 | Production feasibility | 10 | 8 | **8** | Storybook about a child experiencing overwhelm. Single child protagonist, manageable setting. Challenge is illustrating "loudness" and overwhelm in a visual, child-friendly way — achievable with clear art direction after Gate 8. |
+| 8 | Copyright/IP safety | 10 | 7 | **7** | Medium risk due to Inside Out proximity. Manageable with deliberate art direction. Character name and title require Gate 8 checks. |
+| 9 | Monetization potential | 10 | 8 | **8** | Strong series upsell path (3-book Little Brain series), companion printables, gift purchase appeal. |
+| 10 | QMN/MindQuest brand fit | 10 | 9 | **9** | Near-perfect fit — understanding what your brain is doing (not being controlled by it) is the core MindQuest message. Approaches "perfect fit" given series architecture. |
 | | **TOTAL** | **100** | **83 (suggested)** | **83/100 (Elise)** | **Pursue niche and positioning. Exact title is not approved yet.** |
 
 **Score interpretation:**
