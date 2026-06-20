@@ -1,8 +1,7 @@
 # Niche Scorecard 004 — Big Feelings / Anger Management / Emotional Regulation
 
-> ⚠ **SUGGESTED — UNSIGNED**
-> Suggested AI scores populated from Elise's manual research (intake: `_intake/004_anger_intake.md`).
-> Elise Final column is blank until `/niche-signoff 004` is run and Elise signs.
+> ✅ **SIGNED — 2026-06-19**
+> Elise Final scores confirmed. Decision: **Revise**. Broad parent niche is commercially validated but too competitive as a direct entry. Supports 006 as the differentiated doorway.
 
 ---
 
@@ -149,22 +148,21 @@ Inside Out is a registered Disney/Pixar property featuring anthropomorphized emo
 
 ## 100-Point Scoring Table
 
-> ⚠ **SUGGESTED — UNSIGNED** — Suggested AI column populated from Elise's manual research.
-> Elise Final column is blank until Elise confirms and runs `/niche-signoff 004`.
+> ✅ **SIGNED** — Elise Final scores confirmed 2026-06-19. Suggested AI scores accepted as final.
 
 | # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
 |---|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | 9 | /10 | "Meltdowns, hitting, screaming" = urgent, time-sensitive, crisis-level need. Rubric 9–10: urgent/time-sensitive. |
-| 2 | Search demand signal | 10 | 9 | /10 | Multiple bestsellers, BSRs in #5K–#26K range, 5 competitors with 1,600–8,977 reviews. Sponsored ads visible. Rubric 9–10: many results, sponsored ads, active BSRs. |
-| 3 | Competition weakness | 10 | 4 | /10 | Top storybook has 4,584 reviews; top workbook has 8,977. Branded series own their metaphors. Direct entry is hard. Rubric 3–4: strong established titles with thousands of positive reviews. Score reflects DIRECT lane — differentiated sub-niches (006–009) score higher here. |
-| 4 | Parent pain point clarity | 10 | 9 | /10 | Language is extremely specific and consistent: "meltdowns, hitting, screaming, calm down doesn't work." Rubric 9–10: very specific pain point. |
-| 5 | Series potential | 10 | 9 | /10 | Little Brain series (Brave → Loud → Calm) is a natural 3-book arc with cross-sell logic. Rubric 9–10: natural series. |
-| 6 | Differentiation potential | 10 | 7 | /10 | Upstream/overwhelm angle is genuinely differentiated. However, execution must be sharp — the metaphor space is claimed by strong competitors. Rubric 7–8: some differentiation possible with focused execution. |
-| 7 | Production feasibility | 10 | 8 | /10 | 32-page storybook with original brain character — achievable. Rubric 7–8: achievable with modest creative challenge. |
-| 8 | Copyright/IP safety | 10 | 5 | /10 | Inside Out (Pixar) is the primary risk for any brain/emotion-character framing. Manageable with careful design, but not low-risk. Rubric 5–6: some adjacent IP; requires careful character design. NOT disqualifying (> 3) if executed deliberately. |
-| 9 | Monetization potential | 10 | 8 | /10 | Series potential + companion content + strong gift purchase appeal. Rubric 7–8: good repeat purchase potential or upsell path. |
-| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | Understanding what's happening inside before it controls you is exactly the MindQuest message. Rubric 9–10: perfect fit. |
-| | **TOTAL** | **100** | **77 (suggested)** | **/100 (Elise)** | Falls in 60–79 range: Revise and validate — identify weak categories before proceeding. |
+| 1 | Buyer urgency | 10 | 9 | **9** | "Meltdowns, hitting, screaming" = urgent, time-sensitive, crisis-level need. Rubric 9–10: urgent/time-sensitive. |
+| 2 | Search demand signal | 10 | 9 | **9** | Multiple bestsellers, BSRs in #5K–#26K range, 5 competitors with 1,600–8,977 reviews. Sponsored ads visible. Rubric 9–10: many results, sponsored ads, active BSRs. |
+| 3 | Competition weakness | 10 | 4 | **4** | Top storybook has 4,584 reviews; top workbook has 8,977. Branded series own their metaphors. Direct entry is hard. Rubric 3–4: strong established titles with thousands of positive reviews. Score reflects DIRECT lane — differentiated sub-niches (006–009) score higher here. |
+| 4 | Parent pain point clarity | 10 | 9 | **9** | Language is extremely specific and consistent: "meltdowns, hitting, screaming, calm down doesn't work." Rubric 9–10: very specific pain point. |
+| 5 | Series potential | 10 | 9 | **9** | Little Brain series (Brave → Loud → Calm) is a natural 3-book arc with cross-sell logic. Rubric 9–10: natural series. |
+| 6 | Differentiation potential | 10 | 7 | **7** | Upstream/overwhelm angle is genuinely differentiated. However, execution must be sharp — the metaphor space is claimed by strong competitors. Rubric 7–8: some differentiation possible with focused execution. |
+| 7 | Production feasibility | 10 | 8 | **8** | 32-page storybook with original brain character — achievable. Rubric 7–8: achievable with modest creative challenge. |
+| 8 | Copyright/IP safety | 10 | 5 | **5** | Inside Out (Pixar) is the primary risk for any brain/emotion-character framing. Manageable with careful design, but not low-risk. Rubric 5–6: some adjacent IP; requires careful character design. NOT disqualifying (> 3) if executed deliberately. |
+| 9 | Monetization potential | 10 | 8 | **8** | Series potential + companion content + strong gift purchase appeal. Rubric 7–8: good repeat purchase potential or upsell path. |
+| 10 | QMN/MindQuest brand fit | 10 | 9 | **9** | Understanding what's happening inside before it controls you is exactly the MindQuest message. Rubric 9–10: perfect fit. |
+| | **TOTAL** | **100** | **77 (suggested)** | **77 (Elise)** | Revise — broad direct lane too competitive. 006 is the differentiated entry. |
 
 **Score interpretation:**
 - 80–100: Strong candidate → proceed to book brief with Elise approval
@@ -183,7 +181,7 @@ Inside Out is a registered Disney/Pixar property featuring anthropomorphized emo
 ## Final Recommendation
 
 **Suggested score (AI):** 77/100
-**Elise confirmed score:** /100 *(blank until signed)*
+**Elise confirmed score:** **77/100**
 
 **Suggested recommendation (AI):**
 [ ] Pursue
@@ -192,7 +190,9 @@ Inside Out is a registered Disney/Pixar property featuring anthropomorphized emo
 
 **Suggested revision path:** Do not enter through the broad "anger management" door. Enter through a differentiated sub-niche — specifically Scorecard 006 (My Brain Gets Really Loud) or Scorecard 008 (Finding Calm / The Little Calm Brain) — which have the same demand signal and brand fit but avoid the most crowded competition lanes.
 
-**Elise decision:** _____________________ Date: _________
+**Elise decision:** Revise. Date: 2026-06-19
+
+*Note: Broad parent niche is commercially validated but too competitive as a direct entry. It supports 006 as the differentiated doorway.*
 
 *Record this score and decision in `research/gate_7_niche_shortlist.md` before moving to the next niche.*
 

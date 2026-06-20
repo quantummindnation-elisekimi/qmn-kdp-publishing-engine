@@ -1,8 +1,8 @@
 # Niche Scorecard 006 — My Brain Gets Really Loud / The Little Loud Brain
 
-> ⚠ **SUGGESTED — UNSIGNED**
-> Suggested AI scores populated from Elise's manual research (intake: `_intake/006_loud_brain_intake.md` + `_intake/006b_loud_brain_supplemental_intake.md`).
-> Elise Final column is blank until `/niche-signoff 006` is run and Elise signs.
+> ✅ **SIGNED — 2026-06-19**
+> Elise Final scores confirmed. Decision: **Pursue**. Selected Gate 7 niche.
+> ⚠ Production blocker: No manuscript, character bible, illustration prompt, Canva layout, cover, or KDP metadata may begin until USPTO/title searches for "The Little Loud Brain" and "The Little Brave Brain" are completed and Inside Out art-direction guardrails are documented.
 
 ---
 
@@ -169,22 +169,21 @@ Both Inside Out films feature emotions as characters living inside a child's hea
 
 ## 100-Point Scoring Table
 
-> ⚠ **SUGGESTED — UNSIGNED** — Suggested AI column populated from Elise's manual research.
-> Elise Final column is blank until Elise confirms and runs `/niche-signoff 006`.
+> ✅ **SIGNED** — Elise Final scores confirmed 2026-06-19. Suggested AI scores accepted as final.
 
 | # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
 |---|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | 8 | /10 | Strong ongoing need — overwhelm/meltdowns are a consistent, recurring parent pain point, not seasonal. Not 9–10 because it lacks the acute time-trigger of "starting school tomorrow." |
-| 2 | Search demand signal | 10 | 7 | /10 | Supplemental phrase confirms parents ARE searching "loud brain" language — but currently find only autism/neurodivergence books. Active search demand confirmed; general-overwhelm framing is unoccupied. Score updated 6→7 after supplemental search. |
-| 3 | Competition weakness | 10 | 10 | /10 | Zero children's picture books in the search results. No competitors to displace. The niche is completely unoccupied in the exact "loud brain" framing. Rubric: most results are low-quality — here there are no results at all. |
-| 4 | Parent pain point clarity | 10 | 7 | /10 | Pain point is clearly defined in the intake, but could not be confirmed through direct review mining (no relevant competitor titles existed). 1–2 additional searches should yield confirmatory parent language. |
-| 5 | Series potential | 10 | 9 | /10 | Direct fit with the established "Little Brain" series (Book 001: Little Brave Brain already drafted). Book 002: Little Loud Brain is the natural next entry. Rubric: "Natural series" — 9–10 range. |
-| 6 | Differentiation potential | 10 | 10 | /10 | Complete differentiation — no children's picture book uses "loud brain" or overwhelm framing for ages 4–7. The space is wholly unoccupied. |
-| 7 | Production feasibility | 10 | 8 | /10 | Storybook about a child experiencing overwhelm. Single child protagonist, manageable setting. Challenge is illustrating "loudness" and overwhelm in a visual, child-friendly way — achievable with clear art direction. |
-| 8 | Copyright/IP safety | 10 | 7 | /10 | Medium risk due to Inside Out proximity. Manageable with deliberate art direction. Character name requires USPTO check. Rubric: "Low risk with standard due diligence" — applies if Inside Out guardrails are followed. |
-| 9 | Monetization potential | 10 | 8 | /10 | Strong series upsell path (3-book Little Brain series), companion printables, gift purchase appeal. |
-| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | Near-perfect fit — understanding what your brain is doing (not being controlled by it) is the core MindQuest message. Approaches "perfect fit" given series architecture. |
-| | **TOTAL** | **100** | **83 (suggested)** | **/100 (Elise)** | Strong candidate — Pursue (pending Elise confirmation). Score updated from 82→83 after supplemental search confirmed active demand. |
+| 1 | Buyer urgency | 10 | 8 | **8** | Strong ongoing need — overwhelm/meltdowns are a consistent, recurring parent pain point, not seasonal. Not 9–10 because it lacks the acute time-trigger of "starting school tomorrow." |
+| 2 | Search demand signal | 10 | 7 | **7** | Supplemental phrase confirms parents ARE searching "loud brain" language — but currently find only autism/neurodivergence books. Active search demand confirmed; general-overwhelm framing is unoccupied. Score updated 6→7 after supplemental search. |
+| 3 | Competition weakness | 10 | 10 | **10** | Zero children's picture books in the search results. No competitors to displace. The niche is completely unoccupied in the exact "loud brain" framing. Rubric: most results are low-quality — here there are no results at all. |
+| 4 | Parent pain point clarity | 10 | 7 | **7** | Pain point is clearly defined in the intake, but could not be confirmed through direct review mining (no relevant competitor titles existed). 1–2 additional searches should yield confirmatory parent language. |
+| 5 | Series potential | 10 | 9 | **9** | Direct fit with the established "Little Brain" series (Book 001: Little Brave Brain already drafted). Book 002: Little Loud Brain is the natural next entry. Rubric: "Natural series" — 9–10 range. |
+| 6 | Differentiation potential | 10 | 10 | **10** | Complete differentiation — no children's picture book uses "loud brain" or overwhelm framing for ages 4–7. The space is wholly unoccupied. |
+| 7 | Production feasibility | 10 | 8 | **8** | Storybook about a child experiencing overwhelm. Single child protagonist, manageable setting. Challenge is illustrating "loudness" and overwhelm in a visual, child-friendly way — achievable with clear art direction. |
+| 8 | Copyright/IP safety | 10 | 7 | **7** | Medium risk due to Inside Out proximity. Manageable with deliberate art direction. Character name requires USPTO check. Rubric: "Low risk with standard due diligence" — applies if Inside Out guardrails are followed. |
+| 9 | Monetization potential | 10 | 8 | **8** | Strong series upsell path (3-book Little Brain series), companion printables, gift purchase appeal. |
+| 10 | QMN/MindQuest brand fit | 10 | 9 | **9** | Near-perfect fit — understanding what your brain is doing (not being controlled by it) is the core MindQuest message. Approaches "perfect fit" given series architecture. |
+| | **TOTAL** | **100** | **83 (suggested)** | **83 (Elise)** | Selected Gate 7 niche. Score updated from 82→83 after supplemental search confirmed active demand. |
 
 **Score interpretation:**
 - 80–100: Strong candidate → proceed to book brief with Elise approval
@@ -199,19 +198,21 @@ Both Inside Out films feature emotions as characters living inside a child's hea
 ## Final Recommendation
 
 **Suggested score (AI):** 83/100
-**Elise confirmed score:** /100 *(blank until signed)*
+**Elise confirmed score:** **83/100**
 
-**Suggested recommendation (AI):**
-[x] **Pursue** — score 80+, strong brand fit, IP risk manageable with clear art direction guidelines
+**Elise decision:**
+[x] **Pursue** — Selected Gate 7 niche. Proceed to Gate 8 Book Brief only.
 [ ] Revise
 [ ] Reject / Park
 
-**Before pursuing, Elise should:**
-1. Search 3–4 additional phrases (`loud brain children's book`, `overwhelm picture book kids 4-7`, `my brain is loud kids`, `big feelings brain storybook`) to confirm the gap holds
-2. Confirm "The Little Loud Brain" is not an existing trademark (USPTO search)
-3. Confirm art direction approach avoids Inside Out visual language
+**Elise note:** Proceed to Gate 8 book brief only. No manuscript, character design, illustration, cover, or publishing work until IP/title checks are completed.
 
-**Elise decision:** _____________________ Date: _________
+**Pre-production blockers (must clear before Gate 8 work begins):**
+1. USPTO/title search for "The Little Loud Brain"
+2. USPTO/title search for "The Little Brave Brain"
+3. Inside Out art-direction guardrails documented
+
+**Elise decision:** Elise Kimi Date: 2026-06-19
 
 *Record this score and decision in `research/gate_7_niche_shortlist.md` before moving to the next niche.*
 

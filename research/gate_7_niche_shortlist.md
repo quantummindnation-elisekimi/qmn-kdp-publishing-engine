@@ -1,7 +1,7 @@
 # Gate 7 — Niche Research Shortlist
 
 **Gate 7: Niche Research Only**
-**Status: IN PROGRESS — Scorecards 004, 006, 008 scored (suggested). Elise sign-off required on each before Gate 7 can close.**
+**Status: GATE 7 SIGNED — 2026-06-19. Selected niche: 006 — My Brain Gets Really Loud / The Little Loud Brain. Production blocked pending USPTO/IP checks. See sign-off block below.**
 
 *This file is the master tracker for Gate 7. It is the SINGLE SOURCE OF TRUTH for niche IDs, scores, and decisions. One niche = one row = one permanent ID. No niche appears more than once. No book concept, character, manuscript, or illustration work begins until Elise selects and approves a niche from this list.*
 
@@ -30,7 +30,7 @@
 | 001 | Confidence / Fear of Trying New Things | 4–7 | `scoring/001_confidence_trying_new_things_score.md` | Not started | ___/100 | ___/100 | ___ |
 | 002 | Bedtime Anxiety / Night Fears | 3–7 | `scoring/002_bedtime_anxiety_score.md` | Not started | ___/100 | ___/100 | ___ |
 | 003 | First Day of School / Kindergarten Anxiety | 4–7 | `scoring/003_first_day_school_score.md` | Not started | ___/100 | ___/100 | ___ |
-| 004 | Big Feelings / Anger Management | 3–7 | `scoring/004_big_feelings_anger_score.md` | Scored (suggested) | **77/100** | ___/100 | ___ |
+| 004 | Big Feelings / Anger Management | 3–7 | `scoring/004_big_feelings_anger_score.md` | Signed | **77/100** | **77/100** | Revise |
 | 005 | Making Friends / Social Anxiety | 4–8 | `scoring/005_making_friends_score.md` | Not started | ___/100 | ___/100 | ___ |
 
 **Research status options:** Not started / In progress / Scored (suggested) / Signed / Rejected
@@ -45,9 +45,9 @@
 
 | ID | Niche / Title Angle | Age Range | Scorecard | Research Status | Suggested AI Score | Elise Score | Decision |
 |---|---|---|---|---|---|---|---|
-| 006 | My Brain Gets Really Loud — overwhelm/brain-noise framing | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | Scored (suggested) | **83/100** | ___/100 | ___ |
+| 006 | My Brain Gets Really Loud — overwhelm/brain-noise framing | 4–7 | `scoring/006_my_brain_gets_loud_score.md` | Signed | **83/100** | **83/100** | **Pursue ← SELECTED** |
 | 007 | My Feelings Are Not Too Big — anti-shame/validation | 4–7 | `scoring/007_my_feelings_not_too_big_score.md` | Not started | ___/100 | ___/100 | ___ |
-| 008 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | Scored (suggested) ⚠ THIN EVIDENCE | **78/100** | ___/100 | ___ |
+| 008 | Finding Calm / The Little Calm Brain — calm as active skill | 4–7 | `scoring/008_finding_calm_score.md` | Signed ⚠ THIN EVIDENCE | **78/100** | **78/100** | Revise |
 | 009 | When My Body Feels Like a Storm — somatic/pre-anger body signals | 4–7 | `scoring/009_when_body_feels_storm_score.md` | Not started | ___/100 | ___/100 | ___ |
 
 > ⚠ **Scorecard 008 (Finding Calm) — THIN EVIDENCE flag:** Only 1 Amazon search phrase was searched. Suggested score is capped at 78/100 (Revise tier) until Elise validates additional phrases. If additional phrases confirm the narrative storybook gap holds, this likely revises to 80+ (Pursue).
@@ -106,17 +106,20 @@ Elise makes this decision after all priority scorecards are signed.
 
 ## Gate 7 Sign-Off Block
 
-*Complete after all priority scorecards are signed.*
+**Niche selected by Elise:** My Brain Gets Really Loud / The Little Loud Brain (niche_id: 006)
 
-**Niche selected by Elise:** _________________________________
+**Reason for selection:** Strongest score (83/100), clearest QMN/MindQuest brand fit, differentiated upstream-overwhelm angle, avoids direct anger-workbook competition.
 
-**Reason for selection:** _________________________________
+**Book 001 impact:** [x] New book project or Book 002 candidate may proceed to Gate 8 book brief; Book 001 remains under IP/title review.
 
-**Book 001 impact:** [ ] Book 001 confirmed on Candidate 001  [ ] Book 001 adjusted  [ ] New book project started on different niche
+**Elise approval to proceed to Book Brief:** Elise Kimi Date: 2026-06-19
 
-**Elise approval to proceed to Book Brief:** _____________________ Date: _________
-
-*Gate 7 is not complete until Elise signs here.*
+> ⚠ **PRODUCTION BLOCKER — Gate 8 work cannot begin until all three items below are complete:**
+> 1. USPTO/title search completed for "The Little Loud Brain"
+> 2. USPTO/title search completed for "The Little Brave Brain"
+> 3. Inside Out art-direction guardrails documented
+>
+> *No manuscript, character bible, illustration prompt, Canva layout, cover, or KDP metadata may begin until these blockers are cleared.*
 
 ---
 

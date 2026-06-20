@@ -1,8 +1,7 @@
 # Niche Scorecard 008 — Finding Calm / The Little Calm Brain
 
-> ⚠ **SUGGESTED — UNSIGNED**
-> Suggested AI scores populated from Elise's manual research (intake: `_intake/008_calm_brain_intake.md`).
-> Elise Final column is blank until `/niche-signoff 008` is run and Elise signs.
+> ✅ **SIGNED — 2026-06-19**
+> Elise Final scores confirmed. Decision: **Revise**. Strong future Book 003 candidate, but thin evidence. Requires more Amazon phrase validation before Pursue.
 
 ---
 
@@ -156,23 +155,22 @@ This self-published book uses "Brave Brain" as a character name. It currently ha
 
 ## 100-Point Scoring Table
 
-> ⚠ **SUGGESTED — UNSIGNED** — Suggested AI column populated from Elise's manual research.
-> Elise Final column is blank until Elise confirms and runs `/niche-signoff 008`.
-> Note: THIN EVIDENCE flag applies (1 phrase searched) — suggested total capped at 78/100 (Revise tier).
+> ✅ **SIGNED** — Elise Final scores confirmed 2026-06-19.
+> Note: THIN EVIDENCE flag applies (1 phrase searched) — total capped at 78/100 (Revise tier) until additional phrases are searched.
 
 | # | Category | Max | Suggested AI | Elise Final | Rationale / Notes |
 |---|---|---|---|---|---|
-| 1 | Buyer urgency | 10 | 8 | /10 | Strong ongoing need — child dysregulation and inability to self-calm is a consistent, recurring parent pain point. |
-| 2 | Search demand signal | 10 | 7 | /10 | 114 results returned — meaningfully more than Loud Brain phrase. Breathe Like a Bear's BSR #9,571 and 6,310 reviews confirms active purchasing demand. |
-| 3 | Competition weakness | 10 | 5 | /10 | Breathe Like a Bear (Rodale Kids, BSR #9,571, 6,310 reviews) is a Top-100 Amazon seller — genuine, strong competition. Even as exercise format (not storybook), it occupies the same parent purchase intent. Rubric: "Several decent competitors; would need strong differentiation." |
-| 4 | Parent pain point clarity | 10 | 8 | /10 | Review mining from Breathe Like a Bear gives specific, confirmatory parent language: "dysregulated," "sensory-sensitive kiddos," "trauma background," "meltdown onset." Pain point is concrete and confirmed by thousands of reviews. |
-| 5 | Series potential | 10 | 9 | /10 | Direct fit as Book 003 in the established "Little Brain" series (001: Brave, 002: Loud, 003: Calm). Naming convention already established. Rubric: "Natural series." |
-| 6 | Differentiation potential | 10 | 8 | /10 | Clear opportunity: narrative storybook format for ages 4–7 about finding calm does not exist. Breathe Like a Bear (exercise format) and DK's Calm (activity format) leave the story format entirely open. |
-| 7 | Production feasibility | 10 | 8 | /10 | Storybook about a child discovering what calm feels like — single protagonist, warm home/nature settings, visual calm metaphors. Challenge is depicting the "finding" of calm emotionally in illustrations without defaulting to generic breathing-exercise imagery. |
-| 8 | Copyright/IP safety | 10 | 8 | /10 | Lower IP risk than Loud Brain. No major franchise conflict with "calm" framing. Inside Out risk manageable. "Brave Brain" proximity requires monitoring but is currently low-traction. Title needs USPTO search. |
-| 9 | Monetization potential | 10 | 8 | /10 | Strong series upsell path, companion calm-down cards, audio version potential, gift purchase appeal. Book 003 benefits from Books 001 and 002 cross-sell on launch day. |
-| 10 | QMN/MindQuest brand fit | 10 | 9 | /10 | Near-perfect fit — understanding calm as a brain state you can recognize and reach for is core MindQuest emotional intelligence content. Book 003 completes the Little Brain series arc. |
-| | **TOTAL** | **100** | **78 (suggested)** | **/100 (Elise)** | Revise-to-Pursue — THIN EVIDENCE cap applied (1 phrase). Validate additional phrases before treating as Pursue. |
+| 1 | Buyer urgency | 10 | 8 | **8** | Strong ongoing need — child dysregulation and inability to self-calm is a consistent, recurring parent pain point. |
+| 2 | Search demand signal | 10 | 7 | **7** | 114 results returned — meaningfully more than Loud Brain phrase. Breathe Like a Bear's BSR #9,571 and 6,310 reviews confirms active purchasing demand. |
+| 3 | Competition weakness | 10 | 5 | **5** | Breathe Like a Bear (Rodale Kids, BSR #9,571, 6,310 reviews) is a Top-100 Amazon seller — genuine, strong competition. Even as exercise format (not storybook), it occupies the same parent purchase intent. Rubric: "Several decent competitors; would need strong differentiation." |
+| 4 | Parent pain point clarity | 10 | 8 | **8** | Review mining from Breathe Like a Bear gives specific, confirmatory parent language: "dysregulated," "sensory-sensitive kiddos," "trauma background," "meltdown onset." Pain point is concrete and confirmed by thousands of reviews. |
+| 5 | Series potential | 10 | 9 | **9** | Direct fit as Book 003 in the established "Little Brain" series (001: Brave, 002: Loud, 003: Calm). Naming convention already established. Rubric: "Natural series." |
+| 6 | Differentiation potential | 10 | 8 | **8** | Clear opportunity: narrative storybook format for ages 4–7 about finding calm does not exist. Breathe Like a Bear (exercise format) and DK's Calm (activity format) leave the story format entirely open. |
+| 7 | Production feasibility | 10 | 8 | **8** | Storybook about a child discovering what calm feels like — single protagonist, warm home/nature settings, visual calm metaphors. Challenge is depicting the "finding" of calm emotionally in illustrations without defaulting to generic breathing-exercise imagery. |
+| 8 | Copyright/IP safety | 10 | 8 | **8** | Lower IP risk than Loud Brain. No major franchise conflict with "calm" framing. Inside Out risk manageable. "Brave Brain" proximity requires monitoring but is currently low-traction. Title needs USPTO search. |
+| 9 | Monetization potential | 10 | 8 | **8** | Strong series upsell path, companion calm-down cards, audio version potential, gift purchase appeal. Book 003 benefits from Books 001 and 002 cross-sell on launch day. |
+| 10 | QMN/MindQuest brand fit | 10 | 9 | **9** | Near-perfect fit — understanding calm as a brain state you can recognize and reach for is core MindQuest emotional intelligence content. Book 003 completes the Little Brain series arc. |
+| | **TOTAL** | **100** | **78 (suggested)** | **78 (Elise)** | Revise — THIN EVIDENCE cap applied (1 phrase). Validate additional phrases before treating as Pursue. |
 
 **Score interpretation:**
 - 80–100: Strong candidate → proceed to book brief with Elise approval
@@ -187,9 +185,9 @@ This self-published book uses "Brave Brain" as a character name. It currently ha
 ## Final Recommendation
 
 **Suggested score (AI):** 78/100 *(THIN EVIDENCE cap — 1 phrase searched)*
-**Elise confirmed score:** /100 *(blank until signed)*
+**Elise confirmed score:** **78/100**
 
-**Suggested recommendation (AI):**
+**Elise decision:**
 [ ] Pursue
 [x] **Revise** — validate additional phrases before advancing
 [ ] Reject / Park
@@ -201,7 +199,9 @@ This self-published book uses "Brave Brain" as a character name. It currently ha
 
 **If additional phrase validation confirms the narrative storybook gap holds, this likely revises to 80+ (Pursue).**
 
-**Elise decision:** _____________________ Date: _________
+**Elise note:** Strong future Book 003 candidate, but thin evidence. Requires more Amazon phrase validation before Pursue.
+
+**Elise decision:** Elise Kimi Date: 2026-06-19
 
 *Record this score and decision in `research/gate_7_niche_shortlist.md` before moving to the next niche.*
 
