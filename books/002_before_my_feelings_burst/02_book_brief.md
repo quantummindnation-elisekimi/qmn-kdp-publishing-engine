@@ -1,10 +1,10 @@
 # Book Brief — Before My Feelings Burst
 
-> ⬜ **GATE 9 — UNSIGNED**
-> Book concept, story architecture, regulation tool, and parent promise are proposed and await Elise sign-off.
-> No manuscript, character bible, character names, illustration prompts, Canva notes, cover, or KDP metadata may begin until Gate 9 is signed.
+> ✅ **GATE 9 — SIGNED — 2026-06-20**
+> Book concept, story architecture, regulation tool, and parent promise approved by Elise Kimi.
+> Gate 10 (Character Bible) is next. Manuscript, illustration prompts, cover, Canva layout, and KDP metadata remain blocked.
 
-*Drafted: 2026-06-20 | Drafted by: Claude / QMN | Awaiting: Elise Kimi sign-off*
+*Drafted: 2026-06-20 | Drafted by: Claude / QMN | Signed: Elise Kimi — 2026-06-20*
 
 ---
 
@@ -276,20 +276,20 @@ No existing children's picture book identified in Gate 7 or Gate 8 research uses
 
 ## 12. Gate 9 Sign-Off
 
-> ⬜ **GATE 9 — UNSIGNED. Awaiting Elise Kimi approval.**
+> ✅ **GATE 9 — SIGNED — 2026-06-20**
 
 **Sign-off checklist:**
 
-- [ ] Story concept selected and approved by Elise
-- [ ] Story architecture (28–32 page beat outline) approved by Elise
-- [ ] Regulation tool approved by Elise ("Name It Before It Bursts" — hand on heart + one breath + name it)
-- [ ] Parent promise approved by Elise
-- [ ] Back matter structure approved by Elise
-- [ ] IP guardrails reviewed and approved by Elise
-- [ ] Confirmed: no Inside Out / Pixar-style emotion character system
-- [ ] Confirmed: child remains protagonist throughout
-- [ ] Confirmed: no "Little Brain / Loud Brain / Brave Brain" language in any Amazon-facing text
-- [ ] Production remains blocked until Gate 10 (Character Bible + Manuscript Draft approval)
+- [x] Story concept selected and approved by Elise — **The Body Signals Story**
+- [x] Story architecture (28–32 page beat outline) approved by Elise
+- [x] Regulation tool approved by Elise — **Name It Before It Bursts** (hand on heart + one breath + name it)
+- [x] Parent promise approved by Elise
+- [x] Back matter structure approved by Elise
+- [x] IP guardrails reviewed and approved by Elise
+- [x] Confirmed: no Inside Out / Pixar-style emotion character system
+- [x] Confirmed: child remains protagonist throughout
+- [x] Confirmed: no "Little Brain / Loud Brain / Brave Brain" language in any Amazon-facing text
+- [x] Production remains blocked until Gate 10 (Character Bible) is completed and signed
 
 **What Gate 9 sign-off unblocks:**
 - Gate 10 — Character Bible (protagonist name search, character visual direction, character trademark check)
@@ -300,11 +300,11 @@ No existing children's picture book identified in Gate 7 or Gate 8 research uses
 - Cover design (requires Gate 12 sign-off)
 - KDP metadata (requires Gate 13 sign-off)
 
-**Elise approval:** _____________________ Date: _________
+**Elise approval:** Elise Kimi — Date: 2026-06-20
 
-*No character naming, character design, or manuscript work begins without this sign-off.*
+*Gate 9 approves book concept and story architecture only. No character naming, character design, or manuscript work begins without Gate 10 sign-off.*
 
 ---
 
 *Ref: `research/gate_8_title_validation.md` | `research/scoring/006_my_brain_gets_loud_score.md` | `research/gate_7_niche_shortlist.md` | `research/ip_watchlist.md` | `docs/kdp_workflow.md` Phase 4 | `templates/book_brief_template.md`*
-*Gate 9 opened: 2026-06-20 | Drafted: 2026-06-20 | Signed: PENDING*
+*Gate 9 opened: 2026-06-20 | Drafted: 2026-06-20 | Signed: Elise Kimi — 2026-06-20*
