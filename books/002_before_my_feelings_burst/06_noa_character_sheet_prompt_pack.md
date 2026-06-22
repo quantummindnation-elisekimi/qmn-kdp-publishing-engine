@@ -1,7 +1,7 @@
 # Reference Asset 1 — Noa Character Sheet Prompt Pack
 
-> ⚠ **DRAFT — UNSIGNED — MODEL TEST COMPLETE — MASTER IMAGE SELECTION PENDING**
-> v1–v3 prompts iterated. Model test complete: Leonardo GPT 2 preferred over Nano Banana. Visual direction locked. Noa master image not yet selected or approved. No spread images may be generated until Elise selects, saves, and approves the Noa master reference image.
+> ✅ **APPROVED — SIGNED — NOA MASTER REFERENCE LOCKED — 2026-06-22**
+> v3 master image selected and approved by Elise. Leonardo GPT 2 used. Visual direction locked. Reference Asset 1 complete. Reference Asset 2 (caring adult / mom) is now unblocked.
 
 *Created: 2026-06-21 | Created by: Claude / QMN*
 
@@ -12,18 +12,18 @@
 | Item | Status |
 |---|---|
 | Gate 12 — Illustration Prompts signed | ✅ 2026-06-21 — commit 72cc515 |
-| Reference Asset 1 — Noa Character Sheet Prompt Pack | ⚠ Draft — unsigned |
+| Reference Asset 1 — Noa Character Sheet Prompt Pack | ✅ Approved — signed 2026-06-22 |
 | Noa character sheet v1 generated | ✅ v1 generated — reviewed, not approved |
 | Noa character sheet v2 prompts revised | ✅ v2 revised — style and gender-neutrality tightened |
 | Noa character sheet v3 direction locked | ✅ v3 direction set — boy-coded, warm-brown hair, plain teal-cream outfit |
 | Model test — Nano Banana vs Leonardo GPT 2 | ✅ Tested — Leonardo GPT 2 preferred; Nano Banana rejected for this book |
-| Noa master image selected and saved | ⬜ Pending — Elise to select and save preferred image file |
-| Noa character sheet approved by Elise | ⬜ Blocked — master image selection required first |
-| Reference Asset 2 (caring adult / mom) | ⬜ Blocked — Noa approval required first |
+| Noa master image selected and saved | ✅ Approved 2026-06-22 — v3 master image selected by Elise |
+| Noa character sheet approved by Elise | ✅ Approved 2026-06-22 — Reference Asset 1 locked |
+| Reference Asset 2 (caring adult / mom) | ⬜ Ready — Noa approval complete; Reference Asset 2 now unblocked |
 | Spread image generation | ⬜ Blocked — all reference sheets must be approved first |
 | Cover generation | ⬜ Blocked — interior spreads must be approved first |
 
-> **Production rule:** No spread images are generated until Elise approves the Noa character sheet from this pack.
+> **Production rule:** Reference Asset 1 approved. Spread images remain blocked until Reference Asset 2 (caring adult / mom) and Reference Asset 3 (room + special card) are also approved.
 
 ---
 
@@ -335,30 +335,30 @@ Elise approves the full combined set before the character sheet is locked as mas
 
 ## 10. Elise Approval Checklist
 
-*Leave unsigned. Elise to complete after reviewing generated character sheet options.*
+*Signed by Elise — 2026-06-22*
 
-- [ ] Noa face approved — same face, consistent across all 8 panels
-- [ ] Noa age reads as 5–7 — not a toddler, not a school-age older child
-- [ ] Noa reads clearly as a boy — soft, gentle, tidy, and cared-for
-- [ ] Skin tone approved — warm mid-tone
-- [ ] Hair approved — soft warm-brown, slightly shaggy medium, natural and unstyled
-- [ ] Eyes approved — small and natural, not oversized or doll-like
-- [ ] Outfit approved — plain soft teal top (no mandatory collar; optional subtle rounded neckline only if naturally generated; not school-uniform or overly formal), cream knee-length shorts, cream indoor shoes; neat and presentable
-- [ ] Emotional expressions approved — full arc from joy to overwhelm to calm readable; body carries emotion
-- [ ] Panel 6 overwhelm reads through body, not through screaming
-- [ ] Art style approved — flat handmade picture-book; matte; not studio-like or glossy
-- [ ] No IP / studio resemblance confirmed
-- [ ] Exactly 8 panels confirmed — no 9-panel sheet accepted
-- [ ] Generated using Leonardo GPT 2 — Nano Banana not used
-- [ ] Proportions confirmed — natural child proportions with gentle picture-book softness; not mascot-like
-- [ ] v3 direction confirmed — boy-coded, warm-brown hair, teal-cream outfit, flat handmade style all present
-- [ ] Master image saved as Noa_master_reference_v3.png (or equivalent)
-- [ ] Hair confirmed — slightly shaggy medium length; natural and unstyled; not a buzz cut; not gelled
-- [ ] Approved as master Noa reference for all subsequent spread generation
+- [x] Noa face approved — same face, consistent across all 8 panels
+- [x] Noa age reads as 5–7 — not a toddler, not a school-age older child
+- [x] Noa reads clearly as a boy — soft, gentle, tidy, and cared-for
+- [x] Skin tone approved — warm mid-tone
+- [x] Hair approved — soft warm-brown, slightly shaggy medium, natural and unstyled
+- [x] Eyes approved — small and natural, not oversized or doll-like
+- [x] Outfit approved — plain soft teal top (no mandatory collar; optional subtle rounded neckline only if naturally generated; not school-uniform or overly formal), cream knee-length shorts, cream indoor shoes; neat and presentable
+- [x] Emotional expressions approved — full arc from joy to overwhelm to calm readable; body carries emotion
+- [x] Panel 6 overwhelm reads through body, not through screaming
+- [x] Art style approved — flat handmade picture-book; matte; not studio-like or glossy
+- [x] No IP / studio resemblance confirmed
+- [x] Exactly 8 panels confirmed — no 9-panel sheet accepted
+- [x] Generated using Leonardo GPT 2 — Nano Banana not used
+- [x] Proportions confirmed — natural child proportions with gentle picture-book softness; not mascot-like
+- [x] v3 direction confirmed — boy-coded, warm-brown hair, teal-cream outfit, flat handmade style all present
+- [x] Master image saved as Noa_master_reference_v3.png (or equivalent)
+- [x] Hair confirmed — slightly shaggy medium length; natural and unstyled; not a buzz cut; not gelled
+- [x] Approved as master Noa reference for all subsequent spread generation
 
-**Elise approval:** _____________________ Date: _________
+**Elise approval:** Elise Kimi / QMN &nbsp;&nbsp;&nbsp; Date: 2026-06-22
 
-*No spread images are generated until this checklist is signed.*
+*Reference Asset 1 locked. Reference Asset 2 (caring adult / mom) is now unblocked.*
 
 ---
 
@@ -381,4 +381,4 @@ Required sequence remains:
 ---
 
 *Ref: `books/002_before_my_feelings_burst/03_character_bible.md` | `books/002_before_my_feelings_burst/05_illustration_prompts.md` | `books/002_before_my_feelings_burst/04_manuscript.md`*
-*Created: 2026-06-21 | Last revised: 2026-06-22 — v3 direction: boy-coded Noa, warm-brown hair, teal-cream outfit, flat handmade primary style*
+*Created: 2026-06-21 | Last revised: 2026-06-22 — v3 master image approved; Reference Asset 1 signed and locked*
