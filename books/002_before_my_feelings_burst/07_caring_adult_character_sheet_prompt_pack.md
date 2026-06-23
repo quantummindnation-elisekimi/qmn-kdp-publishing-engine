@@ -33,9 +33,9 @@ The caring adult appears across four consecutive spreads — pages 19–26 (spre
 **What this character sheet must establish and lock:**
 
 - **Same face** — the caring adult must be recognisable as the same woman across all four spreads; her face, expression, and warmth must be consistent throughout
-- **Same hairstyle** — simple, everyday; not distractingly styled
-- **Same skin tone** — warm, relatable; Elise to confirm ethnicity direction before generation
-- **Same outfit** — soft, comfortable home clothing; the same person in the same clothes across all appearances
+- **Same hairstyle** — soft warm-brown, modern everyday style; soft waves or softly tied back; polished but natural
+- **Same skin tone** — warm mid-tone; close and complementary to Noa's warm mid-tone
+- **Same outfit** — soft pastel yellow plain midi dress; same dress, same colour across all appearances
 - **Same proportions** — natural adult proportions; no cartoon exaggeration
 - **Same emotional register** — calm, warm, and unhurried in every panel; never alarmed, never lecturing, never fixing
 - **Same body language language rule** — always at Noa's level in key moments; never looming, never visually dominating
@@ -53,11 +53,11 @@ The approved character sheet becomes the master visual reference for all spread 
 | **Character role** | Mother-like caregiver / mom figure — the same visual identity across all four appearances (spreads 8–11, pages 19–26) |
 | **Age reads as** | Adult woman, approximately 30s–40s — recognisably a parent, not a teacher, not a therapist, not a grandparent |
 | **Build** | Natural adult proportions — everyday and approachable; no fashion-model or exaggerated figure |
-| **Hair** | Simple medium-length dark brown or warm brown hair — loosely tied, natural shoulder-length, or tucked back casually; not highly styled, not overly groomed, not dramatic |
-| **Skin tone** | Warm mid-tone or complementary skin tone to Noa — Elise to confirm ethnicity direction before generation |
-| **Eyes** | Warm, calm dark eyes — readable and gentle; not oversized; not doll-like |
-| **Face** | Warm, calm adult face — gentle, open, not tense; everyday and real; not glamorous; no exaggerated expressions |
-| **Clothing** | **Locked outfit — same in every panel and every spread:** soft muted coral, warm clay, olive, cream, or warm neutral top (simple, no logos, no patterns, no high-fashion detailing); simple cream or warm neutral pants or trousers; bare feet or simple indoor shoes. The overall impression should be: a parent at home on a normal morning. |
+| **Hair** | Soft warm-brown hair in a modern everyday style — soft waves or softly tied back; polished but natural; not glamorous, not overly styled, not old-fashioned; medium length |
+| **Skin tone** | Warm mid-tone — close and complementary to Noa's warm mid-tone; warm and relatable |
+| **Eyes** | Warm, calm dark eyes — readable and gentle; not oversized; not doll-like; kind and emotionally safe |
+| **Face** | Warm, calm adult face — gentle, open, kind, everyday-pretty; not tired, not stern, not glamorous; emotionally safe and approachable; the face of a mother who is fully present |
+| **Clothing** | **Locked outfit — same in every panel and every spread:** soft pastel yellow plain midi dress — simple soft short sleeves or soft sleeves, gently shaped but modest, modern, comfortable, home-appropriate; no floral print, no logos, no patterns, no high-fashion detailing; barefoot or simple indoor shoes. The overall impression: a modern, warm, present mother at home on a morning that matters. |
 | **Emotional register** | Calm and warm throughout — not alarmed, not worried, not panicked, not lecturing; simply present; her body says "I am here with you, I see you" |
 | **Posture rule** | Always at Noa's level in key moments — seated on the floor, crouched beside the table, or sitting next to Noa; never standing over Noa; never visually dominating the scene |
 | **Consistency requirement** | Must be the same woman in every panel of the character sheet and in every subsequent spread; the character sheet is the lock |
@@ -164,26 +164,26 @@ The character sheet is a single image containing **exactly 6 panels — no more,
 
 **PROMPT:**
 
-Create a character reference sheet for a children's picture book.
+Create a character reference sheet for a children's picture book, in the exact same flat handmade illustration style as the reference image provided.
 
-**Output format:** Create exactly 6 panels, no more and no less. Arrange the 6 panels in a clear 3x2 grid (preferred) or 2x3 grid. Every panel must show the same adult woman character.
+Create exactly 6 panels arranged in an even 3x2 grid — 3 columns and 2 rows, all panels the same size. No panel should be larger than any other. Every panel must show the same adult woman character. No other character appears anywhere in this sheet.
 
-**Character:** The adult is a mother-like caregiver / mom figure, approximately 30s–40s, with warm mid-tone skin (warm and relatable — Elise to confirm specific ethnicity direction), simple medium-length dark brown or warm brown hair (loosely tied or natural shoulder-length — everyday, not highly styled), warm calm dark eyes (natural adult eye size, not oversized), and a soft warm adult face, gentle and approachable, everyday and real. Natural adult proportions.
+This woman is a mother / caring adult, clearly in her 30s–40s — she must read as a mature adult woman and a parent, not a young adult, not a teenager, not an older sibling. She has warm mid-tone skin, soft warm-brown hair in a modern everyday style (soft waves or softly tied back at the nape), calm warm dark eyes, and a gentle approachable face that feels kind, present, and emotionally safe. Her face proportions must read as an adult woman in her 30s–40s.
 
-**Outfit — same in every panel:** soft muted warm-toned top (coral, warm clay, olive, or warm cream — plain, no logos, no patterns, no fashion detailing), simple cream or warm neutral pants, bare feet or simple indoor shoes. No logos, no brand marks, no costume elements. Comfortable home clothing — the look of a parent at home on a normal morning.
+Outfit — same in every panel: soft pastel yellow plain dress, midi length, simple soft short sleeves, modest, modern, comfortable, no floral print, no logos, no patterns. Barefoot or simple indoor shoes.
 
-**Consistency rules — all 6 panels must show the exact same adult woman:** same face shape, same hair length, same hair shape, same skin tone, same outfit, same outfit colours, same age, same body proportions. Do not let any panel look like a different adult.
+Consistency rules — all 6 panels must show the exact same adult woman: same face shape, same hair, same skin tone, same outfit, same age, same body proportions. Do not let any panel look like a different adult or a younger version.
 
-**Art style:** flat handmade picture-book illustration, paper-cut inspired, gouache-like matte texture, simple rounded forms, minimal facial detail, warm muted colour palette, not glossy, not cinematic, not animation-studio-like. Cozy, emotionally honest, child-friendly. Match the visual style of an approved Noa character sheet in the same book. Background for all panels: neutral white or very light warm paper tone only. No background scene details.
+Art style — must match the reference image exactly: flat handmade children's picture-book illustration, paper-cut inspired, gouache-like matte texture, body and clothing defined by flat colour shapes not outlines, minimal facial features — tiny simple eyes, small soft mouth, no eye highlights, no detailed rendering, no shading gradients. Warm muted colour palette. Cozy and emotionally honest. Not a realistic illustration. Not a polished digital illustration. Not smooth shading. Not detailed eyes. Flat, matte, simple colour shapes only. Background: neutral white or very light warm paper tone only. No background scene details.
 
-Panel 1: full body, front view, neutral calm expression, arms relaxed, natural standing posture.
-Panel 2: full body, three-quarter view, gentle natural smile, relaxed posture — warm and unhurried.
-Panel 3: full body, side profile view, calm standing posture, hair clearly visible in profile.
-Panel 4: full body, seated or crouched at a young child's level — floor-level or low crouch — open relaxed posture, body open and non-looming.
-Panel 5: upper body, sitting beside an implied child's position, listening quietly — face turned gently toward the implied child, attentive and still, hands resting naturally, not reaching, not fixing.
-Panel 6: upper body, gentle encouraging expression — soft warm eyes, slight forward lean, one hand resting naturally on lap or surface. Calm, present, not reaching.
+Panel 1: full body, front view, neutral calm expression, relaxed standing posture.
+Panel 2: full body, three-quarter view, gentle natural smile, warm and unhurried.
+Panel 3: full body, side profile, calm standing posture, hair clearly visible in profile.
+Panel 4: full body, seated or crouched low, open relaxed posture, non-looming — adult woman only, no child present.
+Panel 5: upper body, adult woman only, no child in the panel — turned gently to one side, listening quietly toward empty space, attentive and still, hands resting naturally in her lap.
+Panel 6: upper body, gentle encouraging expression, soft warm eyes, slight forward lean, calm and present — adult woman only, no child in the panel.
 
-**Final constraints:** Exactly 6 panels total. All panels show the same adult woman. No text, no labels, no captions, no watermarks. The adult's posture in every panel communicates calm presence, not authority or instruction.
+Exactly 6 equal-sized panels total, even 3x2 grid. Same adult woman in all 6 panels. No other person appears anywhere. No text, no labels, no captions, no watermark. Posture communicates calm presence, not authority.
 
 ---
 
@@ -195,7 +195,7 @@ Panel 6: upper body, gentle encouraging expression — soft warm eyes, slight fo
 
 **NEGATIVE PROMPT:**
 
-different adult per panel, changing face, changing hair, changing outfit, changing skin tone, inconsistent adult identity, too glamorous, fashion model, stern parent, angry parent, worried parent, panicked expression, looming over child, pointing finger, lecturing pose, hands on hips, teacher uniform, doctor coat, white coat, therapist office, therapy room, glossy animation, cinematic animation, overly polished 3D look, thick cartoon outlines, flat vector edges, oversized eyes, doll-like eyes, mascot-like proportions, exaggerated cartoon proportions, anime, manga, 3D render, CGI, pixar-like, disney-like, dreamworks-like, ghibli-like, emotion creature, brain character, metaphor creature, blob character, spot character, extra panel, seven panels, inconsistent panel count, ragged clothing, highly styled hair, fashion editorial look, glamorous styling, extra props, background scene details, text, labels, watermark, copied character style, exact reference copy, magical aura, superpower glow, fixing gesture, reaching for object, correcting gesture
+young adult, teenager, looks young, young-looking face, girl face, older sibling, too young for a parent, different adult per panel, changing face, changing hair, changing outfit, changing skin tone, inconsistent adult identity, second character, child in image, child figure, girl figure, boy figure, extra person, second person, any person other than the adult woman, floral print dress, busy patterned dress, patterned clothing, stripe dress, printed fabric, too glamorous, fashion model, glamorous styling, high fashion, fashion editorial look, tired-looking mother, exhausted expression, worried parent, stern parent, angry parent, panicked expression, harsh expression, authoritative pose, looming over child, pointing finger, lecturing pose, hands on hips, teacher uniform, teacher aesthetic, doctor coat, white coat, clinical setting, therapist office, therapy room aesthetic, overly old-fashioned styling, frumpy clothing, overly formal clothing, business wear, semi-realistic illustration, polished digital illustration, smooth shading, detailed facial rendering, eye highlights, detailed eyes, large eyes, realistic eyes, photorealistic, hyper-realistic, glossy animation, cinematic animation, overly polished 3D look, thick cartoon outlines, flat vector edges, oversized eyes, doll-like eyes, mascot-like proportions, exaggerated cartoon proportions, anime, manga, 3D render, CGI, pixar-like, disney-like, dreamworks-like, ghibli-like, emotion creature, brain character, metaphor creature, blob character, spot character, extra panel, seven panels, inconsistent panel count, uneven panels, one large panel, oversized panel, different sized panels, large panel beside small panels, highly styled hair, extra props, background scene details, text, labels, watermark, copied character style, exact reference copy, magical aura, superpower glow, fixing gesture, reaching for object, correcting gesture
 
 ---
 
@@ -203,10 +203,22 @@ different adult per panel, changing face, changing hair, changing outfit, changi
 
 ### Before running
 
-- Confirm Elise has approved the caring adult visual direction in Section 3 of this file before generating
-- Confirm skin tone and ethnicity direction with Elise — this has not yet been confirmed for the caring adult
-- Load the approved Noa master reference image as a **style reference only** (not as an identity reference) — use it to match the flat handmade art style and palette
+- Visual direction is confirmed — use Section 3 and the Section 6 prompt as the authoritative brief
+- Skin tone confirmed: warm mid-tone, complementary to Noa's warm mid-tone
+- **Image Guidance is required for this generation — do not run without it**
 - Do not generate spread images during the same session as reference sheet generation — caring adult approval must come first
+
+### Image Guidance setup (critical step — do this before generating)
+
+Using Noa's approved master reference as Image Guidance is the most reliable way to achieve a style match. Text prompts alone cannot fully communicate the flat paper-cut quality of Noa's approved style.
+
+**Steps in Leonardo:**
+1. Open the generation panel and locate **Image Guidance** (also called Image to Image or Style Reference depending on Leonardo version)
+2. Upload `Noa_master_reference_v3.png` as the guidance image
+3. Set guidance mode to **Style** (not Content / Composition — style only, so it matches the visual language without copying Noa's identity)
+4. Set style strength to approximately **0.4–0.6** — strong enough to pull the flat handmade look, not so strong it forces a child character
+5. Run the Section 6 prompt with the negative prompt active on all 4 variations
+6. If the output still reads too realistic or too polished, increase style strength to 0.65 and re-run
 
 ### Generation settings
 
@@ -228,7 +240,7 @@ different adult per panel, changing face, changing hair, changing outfit, changi
 **Accept a sheet if:**
 - All 6 panels show the same adult woman with consistent face, hair, and outfit
 - Adult reads as a warm mom/caregiver figure, approximately 30s–40s
-- Outfit is consistent: soft warm-toned top, warm neutral pants, bare feet or simple indoor shoes — no logos, no patterns, neat and comfortable
+- Outfit is consistent: soft pastel yellow plain midi dress, no floral print, no logos, no patterns — barefoot or simple indoor shoes; neat, modern, and comfortable
 - Body language in every panel communicates calm presence — not authority, not instruction
 - Panel 4 shows the adult clearly at a young child's level — crouched or seated low
 - Panel 5 shows the adult listening beside an implied child's position — not reaching, not fixing
@@ -262,14 +274,14 @@ different adult per panel, changing face, changing hair, changing outfit, changi
 
 *Leave unsigned. Elise to complete after reviewing generated character sheet options.*
 
-- [ ] Caring adult face approved — same face, consistent across all 6 panels
-- [ ] Age reads as 30s–40s — recognisably a parent figure, not a teacher or therapist
-- [ ] Mom / caregiver warmth approved — calm, warm, non-shaming presence reads clearly
-- [ ] Skin tone / ethnicity direction confirmed and approved by Elise
-- [ ] Hair approved — simple medium-length dark or warm brown, loosely tied or natural; not overly styled
-- [ ] Outfit approved — soft warm-toned top, warm neutral pants, bare feet or simple indoor shoes; neat, comfortable, no logos
+- [ ] Same mother identity across all 6 panels — same face, same hair, same outfit, no drift
+- [ ] Age reads as 30s–40s — recognisably a parent figure, not a teacher, doctor, or therapist
+- [ ] Warm kind motherly expression — face reads as calm, kind, emotionally safe, and present
+- [ ] Skin tone approved — warm mid-tone, complementary to Noa
+- [ ] Hair approved — soft warm-brown, modern everyday style (soft waves or softly tied back), polished but natural
+- [ ] Outfit approved — soft pastel yellow plain midi dress; no floral print, no logos, no patterns; barefoot or simple indoor shoes
 - [ ] Calm non-shaming posture approved — body language reads as "I am here with you," not "I am fixing you"
-- [ ] Not looming / not lecturing — adult is at Noa's level in panels 4–5; no authoritative stance
+- [ ] Not looming / not lecturing — adult is at Noa's level in panels 4–5; no authoritative stance, no pointing, no hands on hips
 - [ ] Art style matches Noa — flat handmade picture-book; same matte quality; same warm muted palette
 - [ ] No IP / studio resemblance confirmed
 - [ ] Exactly 6 panels confirmed — no 7-panel sheet accepted
@@ -305,4 +317,4 @@ Required sequence:
 ---
 
 *Ref: `books/002_before_my_feelings_burst/03_character_bible.md` | `books/002_before_my_feelings_burst/05_illustration_prompts.md` | `books/002_before_my_feelings_burst/04_manuscript.md` | `books/002_before_my_feelings_burst/06_noa_character_sheet_prompt_pack.md`*
-*Created: 2026-06-22 | Last revised: 2026-06-22 — initial draft*
+*Created: 2026-06-22 | Last revised: 2026-06-22 — v3: Image Guidance required; prompt reinforced for flat style match and adult age read; no-child and even-grid fixes retained*
