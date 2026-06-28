@@ -1,7 +1,7 @@
 # Reference Asset 2 — Caring Adult / Mom Character Sheet Prompt Pack
 
-> ⚠ **DRAFT — UNSIGNED — NO IMAGES GENERATED**
-> Reference Asset 1 (Noa master reference) is approved and locked. Reference Asset 2 is now unblocked. No spread images may be generated until both Reference Assets 2 and 3 are approved.
+> ✅ **APPROVED — SIGNED — CARING ADULT MASTER REFERENCE LOCKED — 2026-06-24**
+> Reference Asset 2 is approved and locked by Elise. Reference Asset 3 — Room + Special Card is now unblocked. Spread images remain blocked until Reference Asset 3 and the test spread are approved.
 
 *Created: 2026-06-22 | Created by: Claude / QMN*
 
@@ -13,18 +13,44 @@
 |---|---|
 | Gate 12 — Illustration Prompts signed | ✅ 2026-06-21 — commit 72cc515 |
 | Reference Asset 1 — Noa master reference | ✅ Approved — signed 2026-06-22 — commit 44d869b |
-| Reference Asset 2 — Caring Adult / Mom Character Sheet Prompt Pack | ⚠ Draft — unsigned |
-| Caring adult character sheet generated | ⬜ Pending — not yet generated |
-| Caring adult character sheet approved by Elise | ⬜ Blocked — generation required first |
-| Reference Asset 3 (room + special card) | ⬜ Blocked — caring adult approval required first |
-| Spread image generation | ⬜ Blocked — all reference sheets must be approved first |
+| Reference Asset 2 — Caring Adult / Mom Character Sheet Prompt Pack | ✅ Approved — signed 2026-06-24 |
+| Caring adult character sheet generated | ✅ Completed |
+| Caring adult character sheet approved by Elise | ✅ Approved — 2026-06-24 |
+| Reference Asset 3 (room + special card) | ⚠ Ready — unblocked |
+| Spread image generation | ⬜ Blocked — Reference Asset 3 and test spread still required |
 | Cover generation | ⬜ Blocked — interior spreads must be approved first |
 
-> **Production rule:** No spread images are generated until Reference Assets 2 and 3 are approved. Reference Asset 1 is complete. Reference Asset 2 is the current active step.
+> **Production rule:** No spread images are generated until Reference Assets 2 and 3 are approved. Reference Assets 1 and 2 are complete. Reference Asset 3 is the current active step.
 
 ---
 
-## 2. Visual Objective
+## 2. Approved Master Reference
+
+| Item | Detail |
+|---|---|
+| **Approved image filename** | `CaringAdult_master_reference_v1.png` |
+| **Approval date** | 2026-06-24 |
+| **Approved by** | Elise Kimi / QMN |
+| **Generated with** | Leonardo GPT 2 — Image Guidance (Noa master reference as Style, strength 0.25–0.35) |
+
+**Visual summary — locked:**
+
+| Attribute | Approved |
+|---|---|
+| Character | Mother / caring adult, 30s–40s |
+| Skin tone | Warm mid-tone |
+| Hair | Soft warm-brown, modern everyday style — softly tied back / low bun |
+| Face | Calm, kind adult face — reads as a present, emotionally safe mother |
+| Outfit | Soft pastel yellow plain midi dress — simple, modern, no patterns |
+| Footwear | Simple indoor shoes |
+| Style | Flat handmade gouache / paper-cut picture-book — matches Noa master reference |
+| Sheet format | Exactly 6 panels — no text, no labels, no watermarks |
+
+**Elise approval note:** Elise confirmed the generated caring adult reference as "perfect."
+
+---
+
+## 3. Visual Objective
 
 This character sheet must lock the caring adult's consistent visual identity before any spread image involving the adult is generated.
 
@@ -156,9 +182,9 @@ The character sheet is a single image containing **exactly 6 panels — no more,
 
 ---
 
-## 6. Main Image-Generation Prompt
+## 6. Approved Generation Prompt (Historical Record)
 
-*Use this prompt with Leonardo.ai (Leonardo GPT 2 preferred, matching the Noa master reference generation). Run as a single prompt to produce one character sheet image containing exactly 6 panels.*
+*This is the v4 prompt used to generate the approved `CaringAdult_master_reference_v1.png`. Retained for reference and future regeneration if needed. Generation is complete — this is not an active task.*
 
 ---
 
@@ -199,14 +225,16 @@ young adult, teenager, looks young, young-looking face, girl face, older sibling
 
 ---
 
-## 8. Leonardo Generation Notes
+## 8. Leonardo Generation Notes (Historical — Generation Complete)
 
-### Before running
+> **Status:** Reference Asset 2 is approved and locked. These notes are retained for reference and future regeneration only.
 
-- Visual direction is confirmed — use Section 3 and the Section 6 prompt as the authoritative brief
-- Skin tone confirmed: warm mid-tone, complementary to Noa's warm mid-tone
-- **Image Guidance is required for this generation — do not run without it**
-- Do not generate spread images during the same session as reference sheet generation — caring adult approval must come first
+### Generation summary
+
+- Approved with: Leonardo GPT 2, Image Guidance (Noa master reference as Style, strength 0.25–0.35)
+- Skin tone: warm mid-tone, complementary to Noa's warm mid-tone — confirmed
+- Image Guidance was required and used — style strength 0.25–0.35 resolved the age-drift issue
+- Approved sheet saved as: `CaringAdult_master_reference_v1.png`
 
 ### Image Guidance setup (critical step — do this before generating)
 
@@ -260,42 +288,39 @@ Using Noa's approved master reference as Image Guidance is the most reliable way
 - Image contains any text, logo, watermark, or label
 - Any panel shows a creature, emotion figure, or external metaphor character
 
-### After selection
+### After selection (complete)
 
-- Save the approved sheet as: `CaringAdult_master_reference_v1.png` (or equivalent)
-- Store in a working assets folder — do not commit to repo until Elise approves
+- ✅ Approved sheet saved as: `CaringAdult_master_reference_v1.png`
 - Load the approved sheet alongside the approved Noa master reference for every subsequent spread generation step involving the caring adult
-- Do not generate Reference Asset 3 (room + special card) until caring adult is approved
-- Do not generate any spread images until both Reference Assets 2 and 3 are approved
+- ✅ Reference Asset 3 (room + special card) is now unblocked
+- Spread images remain blocked until Reference Asset 3 and test spread are approved
 
 ---
 
 ## 9. Elise Approval Checklist
 
-*Leave unsigned. Elise to complete after reviewing generated character sheet options.*
+*Signed — 2026-06-24.*
 
-- [ ] Same mother identity across all 6 panels — same face, same hair, same outfit, no drift
-- [ ] Age reads as 30s–40s — recognisably a parent figure, not a teacher, doctor, or therapist
-- [ ] Warm kind motherly expression — face reads as calm, kind, emotionally safe, and present
-- [ ] Skin tone approved — warm mid-tone, complementary to Noa
-- [ ] Hair approved — soft warm-brown, modern everyday style (soft waves or softly tied back), polished but natural
-- [ ] Outfit approved — soft pastel yellow plain midi dress; no floral print, no logos, no patterns; barefoot or simple indoor shoes
-- [ ] Calm non-shaming posture approved — body language reads as "I am here with you," not "I am fixing you"
-- [ ] Not looming / not lecturing — adult is at Noa's level in panels 4–5; no authoritative stance, no pointing, no hands on hips
-- [ ] Art style matches Noa — flat handmade picture-book; same matte quality; same warm muted palette
-- [ ] No IP / studio resemblance confirmed
-- [ ] Exactly 6 panels confirmed — no 7-panel sheet accepted
-- [ ] Approved as master caring adult reference for all subsequent spread generation
+- [x] Same mother identity across all 6 panels — same face, same hair, same outfit, no drift
+- [x] Age reads as 30s–40s — recognisably a parent figure, not a teacher, doctor, or therapist
+- [x] Warm kind motherly expression — face reads as calm, kind, emotionally safe, and present
+- [x] Skin tone approved — warm mid-tone, complementary to Noa
+- [x] Hair approved — soft warm-brown, modern everyday style (softly tied back / low bun), polished but natural
+- [x] Outfit approved — soft pastel yellow plain midi dress; no floral print, no logos, no patterns; simple indoor shoes
+- [x] Calm non-shaming posture approved — body language reads as "I am here with you," not "I am fixing you"
+- [x] Not looming / not lecturing — adult is at Noa's level in panels 4–5; no authoritative stance, no pointing, no hands on hips
+- [x] Art style matches Noa — flat handmade picture-book; same matte quality; same warm muted palette
+- [x] No IP / studio resemblance confirmed
+- [x] Exactly 6 panels confirmed — no 7-panel sheet accepted
+- [x] Approved as master caring adult reference for all subsequent spread generation
 
-**Elise approval:** _____________________ Date: _________
+**Elise approval:** Elise Kimi / QMN — 2026-06-24
 
-*No spread images are generated until this checklist is signed.*
+*Reference Asset 2 is locked. Spread images remain blocked until Reference Asset 3 and the test spread are approved.*
 
 ---
 
-## 10. Next Step After Approval
-
-After Elise approves the caring adult character sheet:
+## 10. Next Step
 
 **Reference Asset 3 — Room + Special Card Reference Prompt Pack**
 
@@ -308,8 +333,8 @@ The home interior setting and the special card (with its damage progression acro
 
 Required sequence:
 1. ✅ Noa character sheet — complete
-2. ✅ Caring adult / mom reference sheet — *this file*
-3. ⬜ Room + special card reference sheet
+2. ✅ Caring adult / mom reference sheet — complete (this file)
+3. ⬜ Room + special card reference sheet — **current active step**
 4. ⬜ Test spread — pages 21–22 hand-on-heart moment
 5. ⬜ Remaining spreads in order
 6. ⬜ Cover (Option B — Hand on Heart) — last
@@ -317,4 +342,4 @@ Required sequence:
 ---
 
 *Ref: `books/002_before_my_feelings_burst/03_character_bible.md` | `books/002_before_my_feelings_burst/05_illustration_prompts.md` | `books/002_before_my_feelings_burst/04_manuscript.md` | `books/002_before_my_feelings_burst/06_noa_character_sheet_prompt_pack.md`*
-*Created: 2026-06-22 | Last revised: 2026-06-24 — v4: Image Guidance strength reduced to 0.25–0.35 (Noa reference was pulling generation toward younger proportions); adult face structure description added to main prompt; age-face negative terms added*
+*Created: 2026-06-22 | Last revised: 2026-06-24 — v4 approved: Image Guidance strength 0.25–0.35; adult face structure and age-face negative terms added; Reference Asset 2 approved and locked by Elise Kimi / QMN*

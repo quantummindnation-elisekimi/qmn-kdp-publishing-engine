@@ -22,7 +22,7 @@
 | Item | Status |
 |---|---|
 | Reference Asset 1 — Noa master reference | ✅ Approved and locked — 2026-06-22 |
-| Reference Asset 2 — Mom / caring adult | ⚠ In progress |
+| Reference Asset 2 — Mom / caring adult | ✅ Approved and locked — 2026-06-24 |
 | Style | Flat handmade picture-book illustration — matte gouache / paper-cut inspired, warm muted palette, simple rounded forms, minimal facial detail |
 | Story world | Cozy home / craft-table setting |
 
@@ -115,8 +115,8 @@ Reject immediately — no score needed — if any of the following are present:
 
 ## 7. Next Required Visual Sequence
 
-1. Finish and approve Mom / caring adult master reference (Reference Asset 2)
-2. Create room + card reference sheet (Reference Asset 3)
+1. ✅ Mom / caring adult master reference — complete
+2. Create room + card reference sheet (Reference Asset 3) — **current active step**
 3. Create one test spread: pages 21–22
 4. Approve visual cohesion across all three reference assets
 5. Generate remaining spreads in order
@@ -124,5 +124,5 @@ Reject immediately — no score needed — if any of the following are present:
 
 ---
 
-*Ref: `06_noa_character_sheet_prompt_pack.md` | `07_caring_adult_character_sheet_prompt_pack.md` | `09_visual_style_bible.md` | `10_environment_and_prop_continuity.md` | `11_spread_image_QA_scorecard.md`*
-*Created: 2026-06-23 | Last revised: 2026-06-23*
+*Ref: `06_noa_character_sheet_prompt_pack.md` | `07_caring_adult_character_sheet_prompt_pack.md`*
+*Created: 2026-06-23 | Last revised: 2026-06-24*
